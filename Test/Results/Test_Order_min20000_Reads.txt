@@ -1,0 +1,4 @@
+Reads	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Eu_Other (< 20000 reads)	1659	439	791	1537	1026	489	526
+Ar_Other (< 20000 reads)	101	154	24	37	155	57	73
+ArcEurMet_Methanosarcinales	9670	44155	10	415	756	0	0

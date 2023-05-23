@@ -1,0 +1,86 @@
+Species	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+EukHapIsoNoe_Emiliania	0	0	1	0	0	0	0
+EukOomSapSap_Saprolegnia	1	0	0	0	0	0	0
+EukOomPerPer_Phytophthora	0	0	0	0	0	1	0
+EukBacBacNav_Phaeodactylaceae	0	0	0	0	1	0	0
+EukBacCosTha_Thalassiosiraceae	0	0	0	0	1	0	0
+EukEusEusMon_Nannochloropsis	0	1	0	1	0	0	0
+EukDicDicDic_Dictyostelium discoideum	1	0	0	1	0	0	0
+EukEntEntEnt_	0	0	0	4	0	0	0
+EukAcyAcyHet_Heterostelium album	0	0	0	0	0	1	0
+EukKinTryLei_Leishmania braziliensis	0	1	1	0	0	0	0
+EukKinTryTry_Trypanosoma cruzi	0	0	0	0	0	1	1
+EukFunAscLeo_Helotiales	4	3	4	4	2	4	4
+EukFunAscLeo_Pseudeurotiaceae	1	2	2	1	1	2	2
+EukFunAscLeo_Myxotrichaceae	1	0	0	0	0	0	1
+EukFunAscPne_Pneumocystidales	0	0	1	0	1	1	0
+EukFunAscSac_Saccharomycetales	14	15	13	17	14	15	15
+EukFunAscPez_Pezizales	0	1	1	1	0	0	1
+EukFunAscDot_Capnodiales	2	0	1	2	0	2	1
+EukFunAscDot_Pleosporales	0	2	3	3	0	5	3
+EukFunAscDot_Venturiales	1	1	0	1	0	0	1
+EukFunAscDot_Coniosporium	0	0	0	0	1	0	0
+EukFunAscDot_Botryosphaeriales	1	0	0	1	1	1	0
+EukFunAscDot_Dothideales	1	0	0	0	1	1	0
+EukFunAscXyl_Xylonales	1	1	1	1	1	1	1
+EukFunAscSor_Magnaporthales	3	3	2	4	2	3	2
+EukFunAscSor_Ophiostomatales	1	1	0	0	0	1	1
+EukFunAscSor_Xylariales	0	1	1	0	0	1	1
+EukFunAscSor_Sordariales	5	4	6	8	6	5	4
+EukFunAscSor_Glomerellales	5	3	3	4	4	3	3
+EukFunAscSor_Togniniales	0	0	0	0	0	0	1
+EukFunAscSor_Hypocreales	9	9	10	8	9	8	8
+EukFunAscSor_Microascales	1	0	1	1	1	1	1
+EukFunAscSch_Schizosaccharomycetales	1	1	2	2	0	0	1
+EukFunAscEur_Eurotiales	16	15	14	22	21	17	19
+EukFunAscEur_Verrucariales	0	1	0	0	0	0	0
+EukFunAscEur_Chaetothyriales	5	2	5	5	4	7	9
+EukFunAscEur_Onygenales	8	7	10	7	10	8	6
+EukFunAscOrb_Orbiliales	0	1	1	1	1	1	1
+EukFunBasExo_Georgefischeriales	1	0	0	0	0	0	0
+EukFunBasExo_Ceraceosorales	0	0	1	1	0	1	0
+EukFunBasExo_Microstromatales	0	0	1	0	1	0	1
+EukFunBasExo_Entylomatales	0	1	1	1	0	0	0
+EukFunBasPuc_Pucciniales	2	1	1	2	2	2	1
+EukFunBasMal_Malasseziales	1	0	1	0	1	2	2
+EukFunBasTre_Trichosporonales	2	1	0	0	1	0	1
+EukFunBasTre_Tremellales	1	2	3	1	0	1	1
+EukFunBasMic_Sporidiobolales	1	0	0	0	0	0	1
+EukFunBasWal_Wallemiales	0	0	0	1	0	0	0
+EukFunBasAga_Polyporales	0	0	0	1	1	0	0
+EukFunBasAga_Corticiales	1	0	0	0	0	0	0
+EukFunBasAga_Russulales	0	0	0	0	0	0	1
+EukFunBasAga_Agaricales	1	0	0	0	1	0	1
+EukFunBasAga_Gloeophyllales	0	0	0	1	0	0	0
+EukFunBasAga_Boletales	0	1	1	1	0	1	1
+EukFunBasUst_Ustilaginales	2	2	2	3	1	1	0
+EukFunMucMor_Mortierellales	1	1	1	1	1	1	1
+EukFunMucMuc_Mucorales	1	1	1	1	1	1	1
+EukFunMucGlo_Glomerales	1	1	1	1	1	1	1
+EukApuTheThe_	0	0	0	0	0	1	0
+EukApiAcoHae_Plasmodiidae	0	3	1	1	1	2	2
+EukApiAcoPir_Babesiidae	1	0	1	2	1	1	1
+EukApiConEug_Gregarinidae	0	1	1	0	0	1	1
+EukApiConEuc_Cryptosporidiidae	0	0	1	0	0	0	0
+EukApiConEuc_Eimeriidae	1	0	0	0	0	1	2
+EukApiConEuc_Sarcocystidae	0	0	1	0	1	3	0
+EukTriTriTri_Trichomonas vaginalis	0	0	0	0	0	0	1
+EukPerPerPer_Perkinsus	0	0	0	0	1	0	0
+EukBlaBlaBla_	0	0	1	0	1	0	0
+ArcThaCan_	0	0	0	1	0	0	0
+ArcThaCanCan_	0	0	0	1	0	0	0
+ArcEurMetMet_Methanobacteriaceae	5	4	1	3	3	1	1
+ArcEurHalHal_halophilic archaeon DL31	0	0	0	0	0	0	1
+ArcEurHalHal_Haloferacaceae	0	1	1	0	2	1	1
+ArcEurHalHal_Halorubraceae	1	0	1	0	1	0	1
+ArcEurHalNat_Natrialbaceae	1	1	2	2	1	1	1
+ArcEurHalHal_Halobacteriaceae	1	0	0	0	1	1	2
+ArcEurHalHal_Haloarculaceae	0	0	2	1	0	2	3
+ArcEurMetMet_Methanosarcinaceae	11	17	1	8	10	0	0
+ArcEurMetMet_Methanotrichaceae	0	0	2	0	0	0	0
+ArcEurMetMet_Methanoregulaceae	0	1	1	0	0	1	1
+ArcEurMetMet_Methanomicrobiales unclassified	0	0	1	0	0	0	0
+ArcEurMetMet_Methanomicrobiaceae	0	2	0	1	1	1	1
+ArcEurMetMet_Methanococcaceae	0	1	0	0	0	0	0
+ArcEurMetMet_Methanocaldococcaceae	0	1	0	0	0	0	0
+ArcEurTheThe_Thermococcaceae	1	1	1	1	1	2	2

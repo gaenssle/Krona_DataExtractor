@@ -1,0 +1,309 @@
+Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7	Domain	Phylum	Class	Order	Family	Genus	Species	Subspecies
+		1					Eukaryota	Haptophyta	Isochrysidales	Noelaerhabdaceae	Emiliania	Emiliania huxleyi			
+2							Eukaryota	Oomycetes	Saprolegniales	Saprolegniaceae	Saprolegnia	Saprolegnia parasitica			
+					2		Eukaryota	Oomycetes	Peronosporales	Peronosporaceae	Phytophthora	Phytophthora infestans			
+				1			Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Phaeodactylaceae	Phaeodactylum	Phaeodactylum tricornutum		
+				4			Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira pseudonana		
+	1		1				Eukaryota	Eustigmatophyceae	Eustigmatales	Monodopsidaceae	Nannochloropsis	Nannochloropsis gaditana			
+1			1				Eukaryota	Dictyosteliales	Dictyosteliaceae	Dictyostelium	Dictyostelium discoideum				
+			1				Eukaryota	Entamoebidae	Entamoeba	Entamoeba nuttalli					
+			1				Eukaryota	Entamoebidae	Entamoeba	Entamoeba invadens					
+			5				Eukaryota	Entamoebidae	Entamoeba	Entamoeba dispar					
+			1				Eukaryota	Entamoebidae	Entamoeba	Entamoeba histolytica					
+					2		Eukaryota	Acytosteliales	Acytosteliaceae	Heterostelium	Heterostelium album				
+	1	1					Eukaryota	Kinetoplastida	Trypanosomatidae	Leishmania	Leishmania braziliensis				
+					11	3	Eukaryota	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma cruzi				
+		2	1		2	2	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Lachnaceae	Lachnellula	Lachnellula hyalina	
+6	1	2	50	6	6	6	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	Marssonina	Marssonina brunnea	
+2	2	3	1		5		Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	Hyaloscypha bicolor	
+				1			Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	Glarea lozoyensis	
+1	2					1	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	Botrytis cinerea	
+1		1	1			1	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia sclerotiorum	
+					2		Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Phialocephala	Phialocephala scopiformis		
+	1	1	1		10	37	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus destructans		
+1	1	2		2	14	11	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus verrucosus		
+2						1	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Myxotrichaceae	Amorphotheca	Amorphotheca resinae		
+		1			1		Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	Pneumocystis jirovecii	
+				1			Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	Pneumocystis carinii	
+						1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania naganishii	
+9	6	3	5	8	1	1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Tetrapisispora	Tetrapisispora blattae	
+				2			Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	Eremothecium sinecaudum	
+	20	9	10				Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces cerevisiae	
+1							Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces eubayanus	
+					2	10	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Vanderwaltozyma	Vanderwaltozyma polyspora	
+6	7	9	8	9	8	2	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Zygosaccharomyces	Zygosaccharomyces rouxii	
+1	1		4	1		4	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces marxianus	
+	4	1			70	154	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces ciferrii	
+	1			1			Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces anomalus	
+	1			1	1		Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera jadinii	
+3	8	2			2	7	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	Yarrowia lipolytica	
+27			1				Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Metschnikowia	Metschnikowia bicuspidata	
+3	5	4	9	7	2	5	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] auris	
+1			1			1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] duobushaemulonis	
+1		3	1		1	1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] pseudohaemulonis	
+6	2		2	1	2		Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] haemulonis	
+3	4	4	5	1	3	5	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Lodderomyces	Lodderomyces elongisporus	
+				1			Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Meyerozyma	Meyerozyma guilliermondii	
+2							Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida orthopsilosis	
+		1	2			1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida tropicalis	
+3	2	5	7	5	4		Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida dubliniensis	
+					1		Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida albicans	
+			1				Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Babjeviella	Babjeviella inositovora	
+1	1	1	6	8	4		Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Hyphopichia	Hyphopichia burtonii	
+			1		1	1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Spathaspora	Spathaspora passalidarum	
+	3		2	1	1	3	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Ascoideaceae	Ascoidea	Ascoidea rubescens	
+		1		3			Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia kudriavzevii	
+						1	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia membranifaciens	
+	5	8	5				Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	Ogataea polymorpha	
+	1	2	2			1	Eukaryota	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber	Tuber melanosporum	
+2			12		4		Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora fijiensis	
+1		1	1		2	1	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Sphaerulina	Sphaerulina musiva	
+	1	1	9		5	1	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Exserohilum	Exserohilum turcicum	
+					1	1	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria alternata	
+			1				Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris sorokiniana	
+		1					Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris oryzae	
+			1				Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris maydis	
+		1					Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris victoriae	
+					1		Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora tritici-repentis	
+					1		Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	
+					2	1	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria maculans	
+	1						Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sporulosa	
+1	4		1			1	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Venturiales	Sympoventuriaceae	Verruconis	Verruconis gallopava	
+				1			Eukaryota	Fungi	Ascomycota	Dothideomycetes	Coniosporium	Coniosporium apollinis			
+10			34	3	1		Eukaryota	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Diplodia	Diplodia corticola	
+1				2	2		Eukaryota	Fungi	Ascomycota	Dothideomycetes	Dothideales	Saccotheciaceae	Aureobasidium	Aureobasidium subglaciale	
+1	2	2	16	1	1	3	Eukaryota	Fungi	Ascomycota	Xylonomycetes	Xylonales	Xylonaceae	Xylona	Xylona heveae	
+	1	1	1				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Magnaporthaceae	Gaeumannomyces	Gaeumannomyces tritici	
+5	5		2	5	5	4	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia grisea	
+1			2		1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia oryzae	
+7	7	19	11	11	8	4	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia pennisetigena	
+1							Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Grosmannia	Grosmannia clavigera	
+	1				2	1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Sporothrix	Sporothrix schenckii	
+					1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	Pestalotiopsis fici	
+	1	1				1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Xylariales	Phialemoniopsis	Phialemoniopsis curvata		
+4	2	2	5	5		4	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Podospora	Podospora anserina	
+1	1	1	1	28	3		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothelomyces	Thermothelomyces thermophilus	
+7		1	1	3			Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium thermophilum	
+		1	3		1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium globosum	
+	2		1		3	2	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothielavioides	Thermothielavioides terrestris	
+1			2	1	1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	Neurospora tetrasperma	
+	2	2	1	2		3	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	Neurospora crassa	
+1		1	3	3	4	3	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	Sordaria macrospora	
+1			2	1			Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Sodiomyces	Sodiomyces alkalinus	
+				15			Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium dahliae	
+1						1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium nonalfalfae	
+					1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium alfalfae	
+1	2	2	1				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum higginsianum	
+1	1	2	2	1	1	1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum graminicola	
+48	20	25	35	33	23	20	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum orchidophilum	
+						2	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Togniniales	Togniniaceae	Phaeoacremonium	Phaeoacremonium minimum	
+			12				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium	Purpureocillium lilacinum	
+		10				1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Pochonia	Pochonia chlamydosporia	
+	1						Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium brunneum	
+	2	2	3				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium robertsii	
+6	6	9	6	12	3	4	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium acridum	
+				2	1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium graminearum	
+1							Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium coffeatum	
+8							Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	[Nectria] haematococca	
+	1				3		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium proliferatum	
+2							Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium pseudograminearum	
+1	1	1		1			Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium oxysporum	
+				1	1	1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium fujikuroi	
+		1					Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium venenatum	
+	1	9		2	1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Beauveria bassiana	
+					1		Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	Cordyceps fumosorosea	
+		2		2		1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma virens	
+2	5		1			1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma harzianum	
+			2				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma citrinoviride	
+1		1		2		1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma gamsii	
+2	1	1	2	1	3	8	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma asperellum	
+3	2	3	1	1	1	3	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma reesei	
+			1				Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma atroviride	
+2		2	1	6	1	1	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium apiospermum	
+	1	1					Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces cryophilus	
+1			1			2	Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces octosporus	
+		2	1				Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces pombe	
+4							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Thermoascaceae	Byssochlamys	Byssochlamys spectabilis	
+	1				1	3	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicilliopsis	Penicilliopsis zonata	
+				2	3	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium digitatum	
+			4	574			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium rubens	
+			1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium expansum	
+			2				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus vadensis	
+164	13	359	697	14			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus fischeri	
+3		2	1	1	3	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus saccharolyticus	
+2							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus bombycis	
+1			1	1		1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus candidus	
+	1				3		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus brunneoviolaceus	
+	2	5	2	11	3	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus costaricaensis	
+		1		1	1		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus ibericus	
+		1					Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus flavus	
+1				2	1		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus fumigatus	
+	2						Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus piperis	
+1					1	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus homomorphus	
+	41	1	1		1		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus uvarum	
+		1	33	1		1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus steynii	
+2			15		11	7	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus clavatus	
+	1			4	1	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus thermomutatus	
+1							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus sclerotioniger	
+	1		1			2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus japonicus	
+		3		2	1	7	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus aculeatus	
+3	2	2	6	2	3	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus glaucus	
+			7				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus eucalypticola	
+3		2	3	2			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus welwitschiae	
+1			2		1	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus campestris	
+3							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus terreus	
+		2		19		2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus lentulus	
+	6	6	4	9		1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus mulundensis	
+	1	1	2	1		1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus aculeatinus	
+			1	1	2		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus niger	
+1	2	4	23	2	1	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus heteromorphus	
+2				1	6	3	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus nomius	
+1			1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus neoniger	
+			1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus oryzae	
+	2		2			1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus nidulans	
+	2						Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	Rasamsonia emersonii	
+	1			1			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces atroroseus	
+				1			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces marneffei	
+	1						Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Endocarpon	Endocarpon pusillum	
+		1	1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Capronia	Capronia coronata	
+2			19		1	4	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Capronia	Capronia epimyces	
+18					3	6	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala aquamarina	
+		5	6	1		1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala spinifera	
+	1				1	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala xenobiotica	
+	2		1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala dermatitidis	
+			1				Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	Phialophora attae	
+1							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea erecta	
+		1				1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea multimorphosa	
+		1		1	1		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea pedrosoi	
+					1	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea nubica	
+		1		1			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	Rhinocladiella mackenziei	
+					4	7	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora carrionii	
+					2	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora psammophila	
+6						1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora immunda	
+1							Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora yegresii	
+				1			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora bantiana	
+1	2	1	3	1	1		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Paracoccidioides	Paracoccidioides lutzii		
+1	1	2		2			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Paracoccidioides	Paracoccidioides brasiliensis		
+3	2	1	3	4	1	4	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Coccidioides	Coccidioides posadasii		
+1	2	6	5	2	1	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Coccidioides	Coccidioides immitis		
+6	7	5	4	4	2	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton benhamiae	
+		1		1	1	1	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton rubrum	
+1		1	2	1	1	3	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton verrucosum	
+		1		1			Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Microsporum	Microsporum canis	
+5	3	2	4	4	5	2	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Blastomyces	Blastomyces gilchristii	
+3	6	2	6	5	4		Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Histoplasma	Histoplasma capsulatum	
+	92	41	92	2	3	2	Eukaryota	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	Arthrobotrys oligospora	
+1							Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Georgefischeriales	Tilletiariaceae	Tilletiaria	Tilletiaria anomala	
+		1	1		1		Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Ceraceosorales	Ceraceosoraceae	Ceraceosorus	Ceraceosorus guamensis	
+		2		1			Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Microstromatales	Pseudomicrostroma	Pseudomicrostroma glucosiphilum		
+						1	Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Microstromatales	Jaminaea	Jaminaea rosea		
+	1	1	1				Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Tilletiopsis	Tilletiopsis washingtonensis		
+1			2	1	2		Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	Melampsora	Melampsora larici-populina	
+1	3	1	4	5	1	2	Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia graminis	
+1028				1	44	5	Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia pachydermatis	
+					1	1	Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia globosa	
+		1					Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia restricta	
+7				1		1	Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum porosum	
+1	1						Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Cutaneotrichosporon	Cutaneotrichosporon oleaginosum	
+	1						Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus neoformans	
+		1					Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella bestiolae	
+		1					Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella dejecticola	
+6	3	1	3		1	1	Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella pini	
+						1	Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula graminis	
+5							Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula toruloides	
+			27				Eukaryota	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	Wallemiaceae	Wallemia	Wallemia ichthyophaga	
+			21	1			Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Dacryobolaceae	Postia	Postia placenta	
+3							Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Punctulariaceae	Punctularia	Punctularia strigosozonata	
+						1	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	Stereum hirsutum	
+1							Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	Agaricus bisporus	
+				1		1	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis cinerea	
+			1				Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Gloeophyllales	Gloeophyllaceae	Gloeophyllum	Gloeophyllum trabeum	
+	10	8	4		1	1	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Boletales	Coniophoraceae	Coniophora	Coniophora puteana	
+			2				Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Kalmanozyma	Kalmanozyma brasiliensis	
+					1		Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Sporisorium	Sporisorium graminicola	
+2		1	2				Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	Ustilago maydis	
+	1			2			Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Moesziomyces	Moesziomyces antarcticus	
+60	1	5	1				Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Anthracocystis	Anthracocystis flocculosa	
+16	17	63	30	36	16	8	Eukaryota	Fungi	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Lobosporangium	Lobosporangium transversale	
+5	4	14	5	4	5	2	Eukaryota	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	
+42	33	46	61	51	22	27	Eukaryota	Fungi	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	Rhizophagus irregularis	
+					1		Eukaryota	Apusomonadidae	Thecamonas	Thecamonas trahens					
+	1				1	2	Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium reichenowi		
+	2				2	22	Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium falciparum		
+		1					Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium yoelii		
+	9		3	1			Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium fragile		
+10			96	13	61	24	Eukaryota	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia bigemina		
+		1	1				Eukaryota	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia microti		
+	1	1			1	1	Eukaryota	Apicomplexa	Conoidasida	Eugregarinorida	Gregarinidae	Gregarina	Gregarina niphandrodes		
+		1					Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Cryptosporidiidae	Cryptosporidium	Cryptosporidium hominis		
+						1	Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Eimeriidae	Cyclospora	Cyclospora cayetanensis		
+20					1	6	Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Eimeriidae	Eimeria	Eimeria mitis		
+					1		Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Neospora	Neospora caninum		
+					2		Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Toxoplasma	Toxoplasma gondii		
+		1		14	2		Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Hammondia	Hammondia hammondi		
+						1	Eukaryota	Trichomonadida	Trichomonadidae	Trichomonas	Trichomonas vaginalis				
+				1			Eukaryota	Perkinsozoa	Perkinsida	Perkinsidae	Perkinsus	Perkinsus marinus			
+		3		1			Eukaryota	Blastocystidae	Blastocystis	Blastocystis hominis					
+			1				Archaea	Thaumarchaeota	Candidatus Nitrosotenuis						
+			1				Archaea	Thaumarchaeota	Candidatus Nitrosotenuis	Candidatus Nitrosotenuis uzonensis					
+1							Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanothermobacter	Methanothermobacter marburgensis		
+					2	1	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanosphaera	Methanosphaera stadtmanae		
+	2	1					Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter curvatus		
+			1				Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter ruminantium		
+8				1			Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium subterraneum		
+4	11		14	80			Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium veterum		
+67	10		2	20			Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium formicicum		
+	2						Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium paludis		
+3							Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium congolense		
+						1	Archaea	Euryarchaeota	Halobacteria	Haloferacales	halophilic archaeon DL31				
+					1		Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Halogeometricum	Halogeometricum limi		
+						1	Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloferax	Haloferax elongans		
+				2			Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloquadratum	Haloquadratum walsbyi		
+	110			1			Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Halopelagius	Halopelagius inordinatus		
+		1					Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloprofundus	Haloprofundus marisrubri		
+						1	Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Haloparvum	Haloparvum sedimenti		
+				1			Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halopenitus	Halopenitus malekzadehii		
+1							Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halorubrum	Halorubrum lipolyticum		
+		4					Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halolamina	Halolamina sediminis		
+		2	3				Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Natronorubrum	Natronorubrum tibetense		
+					1		Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Natronobacterium	Natronobacterium gregoryi		
+5							Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Halopiger	Halopiger djelfimassiliensis		
+	1	1	5	1		1	Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Halostagnicola	Halostagnicola larsenii		
+9					1	5	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Halalkalicoccus	Halalkalicoccus paucihalophilus		
+						1	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Halanaeroarchaeum	Halanaeroarchaeum sulfurireducens		
+				10			Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Haloarchaeobius	Haloarchaeobius iranensis		
+		1				1	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Halomicrobium	Halomicrobium mukohataei		
+		1				2	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Natronomonas	Natronomonas moolapensis		
+					2	8	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Halapricum	Halapricum salinum		
+			1				Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	Haloarcula hispanica		
+					1		Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	Haloarcula vallismortis		
+15	114			2			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina acetivorans		
+167	623		12	5			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina spelaei		
+19	71		3	5			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina flavescens		
+	1						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina sp Ant1		
+10	42		1	4			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina siciliae		
+13	82			2			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina mazei		
+35	133		3	8			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina horonobensis		
+8836	40926	2	376	613			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina barkeri		
+24	142		3	3			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina lacustris		
+424	1916		16	113			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina vacuolata		
+23	96		1	1			Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina thermophila		
+104							Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanomethylovorans	Methanomethylovorans hollandica		
+	1						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanohalophilus	Methanohalophilus mahii		
+	1						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus profundi		
+	2						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus vulcani		
+	2						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus psychrophilus		
+	2						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanococcoides	Methanococcoides burtonii		
+	1						Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanococcoides	Methanococcoides methylutens		
+		3					Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanotrichaceae	Methanothrix	Methanosaeta harundinacea		
+		5					Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanotrichaceae	Methanothrix	Methanothrix soehngenii		
+	6	4			38	45	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanosphaerula	Methanosphaerula palustris		
+		2					Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiales unclassified	Methanomicrobiales unclassified	Methanomicrobiales archaeon HGW Methanomicrobiales 5		
+					1	2	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoplanus	Methanoplanus limicola		
+	4						Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoculleus	Methanoculleus marisnigri		
+	1						Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoculleus	Methanoculleus thermophilus		
+			1	27			Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanofollis	Methanofollis liminatans		
+	2						Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanococcaceae	Methanothermococcus	Methanothermococcus okinawensis		
+	2						Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	Methanocaldococcus fervens		
+					7	2	Archaea	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus gorgonarius		
+3	3	7	8	12	3	2	Archaea	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus chitonophagus		
