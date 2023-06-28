@@ -7,75 +7,95 @@
 ##------------------------------------------------------
 import sys
 import os
+import pandas as pd
 
 # Own modules
-import Import_Export as IE
+# import Import_Export as IE
 import Extract_Krona as Extract
-import Combine_Files as Combine
-import Count_Taxonomy as Count
 
 ##------------------------------------------------------
 ## FUNCTIONS
 ##------------------------------------------------------
 # Print header
-def PrintHeader():
-    print("\n","-"*75,"\n","-"*75)
-    print("\tTHE KRONA DATA EXTRACTOR\tby A.L.O. Gaenssle, 2023")
-    print("", "-"*75,"\n")
+def print_header():
+	print("\n","-"*75,"\n","-"*75)
+	print("\tTHE KRONA DATA EXTRACTOR\tby A.L.O. Gaenssle, 2023")
+	print("", "-"*75,"\n")
 
-def GetTaxonomy():
-	Answer = input("\nDo you want to count the taxonomy?"
+# Ask if the taxonomy should be counted
+def get_taxonomy():
+	answer = input("\nDo you want to count the taxonomy?"
 		"\n(y=yes, n=no)\n")
-	while Answer not in ("y", "n"):
-		Answer = input("\nPlease enter 'y' or 'n'!\n")
-	if Answer == "y":
-		Get = True
+	while answer not in ("y", "n"):
+		answer = input("\nPlease enter 'y' or 'n'!\n")
+	if answer == "y":
+		get = True
 	else:
-		Get = False
-	return(Get)
+		get = False
+	return(get)
+
+# Create new Folder
+def create_folder(new_path):
+	if not os.path.exists(new_path):
+		os.makedirs(new_path)
+		print("Created folder:", new_path)
+	else:
+		print("Files will be added to:", new_path)
+	return(new_path)
+
+# Get numer & name of all samples
+# Return level & name of available taxonomy
+def get_samples(header_list, end="Domain"):
+	try:
+		index = header_list.index(end)
+		return(header_list[:index], header_list[index:], index)
+	except:
+		print("Error: Tag", end, "does not exist")
+		return([], [], 0)
 
 ##------------------------------------------------------
 ## MAIN SCRIPT
 ##------------------------------------------------------
 Cutoff = 20000 # Cufoff all UTFs below this number of reads (default = 20000)
 
-PrintHeader()
+print_header()
 
 try:
-	InputFile = sys.argv[1]
-	Folder = os.path.split(InputFile)[0]
+	input_file = sys.argv[1]
+	folder = os.path.split(input_file)[0]
 except IndexError:
-	Folder = "Test/"
-	InputFile = Folder + "Test.krona_plot.html"
-FileType = InputFile.rsplit(".",1)[1]
-Get = True # Default for count taxonomy
+	folder = "Test/"
+	input_file = folder + "Test_krona_plot.html"
+	# input_file = folder + "Test_krona_plot_Reads.txt"
+file_type = input_file.rsplit(".",1)[1]
+get = True # Default for count taxonomy
 
 
 ## Input and extract krona.html file, export into table
-if FileType == "html":
-	InputData = IE.ImportList(InputFile, Strip=False)
-	SampleList = Extract.GetSamples(InputData)
-	ReadList, Header = Extract.GetReads(InputData, InputFile, SampleList)
-	Get = GetTaxonomy()
+if file_type == "html":
+	with open(input_file, 'r') as file:
+		print("Import File:", input_file)
+		input_data = file.read().splitlines()
+	sample_list = Extract.GetSamples(input_data)
+	Extract.GetReads(input_data, input_file, sample_list)
+	get = get_taxonomy()
 
 ## Count Taxonomy
-if FileType == "txt" or Get:
-	OutputFolder = IE.CreateFolder(Folder+"/Results/")
-	if FileType == "txt":
-		ReadList, Header = IE.ImportNestedList(InputFile, getHeader=True)
-	SampleList, LevelList, Index = Count.GetSamples(Header)
-	for Level in range(len(LevelList)):
-		OutputFile = OutputFolder + os.path.split(InputFile)[0].rsplit(".",1)[0] + "_" + LevelList[Level] + ".txt"
-		Header = "\t" + "\t".join(SampleList) + "\n"
-		LevelReads = Count.CountLevel(ReadList, Index, Level, OutputFile, Header)
-		if Level > 0:
-			filteredReads = Count.FilterReads(LevelReads, Cutoff, OutputFile, Header)
+if file_type == "txt" or get:
+	output_folder = create_folder(folder +"/Results/")
+	if file_type != "txt":
+		input_file = input_file.rsplit(".",1)[0] + "_Reads.txt"
+	reads_df = pd.read_csv(input_file, sep="\t", index_col=False)
+	reads_df.to_csv("Test.txt", sep="\t", index=False)
+	sample_list, level_list, index = get_samples(list(reads_df))
+	reads_df[sample_list] = reads_df[sample_list].astype("Int64")
+	for level in range(len(level_list)):
+		reads = reads_df.groupby(level_list[:level+1])[sample_list].sum()
+		species = reads_df.groupby(level_list[:level+1])[sample_list].count()
+		file_name = output_folder + os.path.split(input_file)[0].rsplit(".",1)[0] + "_" + level_list[level]
+		reads.to_csv(file_name + "_Reads.txt", sep="\t")
+		species.to_csv(file_name + "_Species.txt", sep="\t")
+		print("Counted", level_list[level], "from", input_file)
 
-
-## Combine Files
-# InputFile1 = Folder + "Name1" + ".krona_plot_Reads.txt"
-# InputFile2 = Folder + "Name2" + ".krona_plot_Reads.txt"
-# OutputFile =Folder + "Name" + ".krona_plot_Reads.txt"
-# CombineFiles(InputFile1, InputFile2, OutputFile)
 
 print("\n","-"*75,"\n End of program\n","-"*75,"\n","-"*75)

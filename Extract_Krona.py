@@ -4,8 +4,7 @@
 # -> Extracts data from krona.html files as saves them as tables
 
 import copy
-import Import_Export as IE	# Own module
-
+import pandas as pd
 
 ##------------------------------------------------------
 ## FUNCTIONS
@@ -21,6 +20,7 @@ def GetSamples(InputData):
 			if Line.strip().startswith("</datasets>"):
 				break
 	return(SampleList)
+
 
 # Extract all reads for each sample and Species
 # -> save as [Sample1, Sample2,... Domain, Phylum, Class...]
@@ -46,7 +46,8 @@ def GetReads(InputData, InputFile, SampleList):
 						Reads.append("")
 					Reads.extend(copy.deepcopy(Tree[1:]))
 					ReadList.append(Reads)
-	OutputFile = InputFile.rsplit(".",1)[0] + "_Reads.txt"
-	Header = "\t".join(SampleList) + "\tDomain\tPhylum\tClass\tOrder\tFamily\tGenus\tSpecies\tSubspecies\n"
-	IE.ExportNestedList(ReadList, OutputFile, Header, Ask=False)
-	return(ReadList, Header)
+	OutputFile = InputFile.rsplit(".",1)[0] + "_Reads_test.txt"
+	Header = SampleList + ["Domain", "Phylum", "Class", "Order", "Family", "Genus", "Species", "Subspecies", ""]
+	df = pd.DataFrame(ReadList,columns=Header)
+	df.drop("", axis=1, inplace=True)
+	df.to_csv(OutputFile, sep="\t", index=False)

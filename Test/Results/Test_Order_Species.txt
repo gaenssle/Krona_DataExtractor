@@ -1,54 +1,53 @@
-Species	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-EukHapIso_Noelaerhabdaceae	0	0	1	0	0	0	0
-EukOomSap_Saprolegniaceae	1	0	0	0	0	0	0
-EukOomPer_Peronosporaceae	0	0	0	0	0	1	0
-EukBacBac_Naviculales	0	0	0	0	1	0	0
-EukBacCos_Thalassiosirales	0	0	0	0	1	0	0
-EukEusEus_Monodopsidaceae	0	1	0	1	0	0	0
-EukDicDic_Dictyostelium	1	0	0	1	0	0	0
-EukEntEnt_Entamoeba nuttalli	0	0	0	1	0	0	0
-EukEntEnt_Entamoeba invadens	0	0	0	1	0	0	0
-EukEntEnt_Entamoeba dispar	0	0	0	1	0	0	0
-EukEntEnt_Entamoeba histolytica	0	0	0	1	0	0	0
-EukAcyAcy_Heterostelium	0	0	0	0	0	1	0
-EukKinTry_Leishmania	0	1	1	0	0	0	0
-EukKinTry_Trypanosoma	0	0	0	0	0	1	1
-EukFunAsc_Leotiomycetes	6	5	6	5	3	6	7
-EukFunAsc_Pneumocystidomycetes	0	0	1	0	1	1	0
-EukFunAsc_Saccharomycetes	14	15	13	17	14	15	15
-EukFunAsc_Pezizomycetes	0	1	1	1	0	0	1
-EukFunAsc_Dothideomycetes	5	3	4	7	3	9	5
-EukFunAsc_Xylonomycetes	1	1	1	1	1	1	1
-EukFunAsc_Sordariomycetes	24	21	23	25	22	22	21
-EukFunAsc_Schizosaccharomycetes	1	1	2	2	0	0	1
-EukFunAsc_Eurotiomycetes	29	25	29	34	35	32	34
-EukFunAsc_Orbiliomycetes	0	1	1	1	1	1	1
-EukFunBas_Exobasidiomycetes	1	1	3	2	1	1	1
-EukFunBas_Pucciniomycetes	2	1	1	2	2	2	1
-EukFunBas_Malasseziomycetes	1	0	1	0	1	2	2
-EukFunBas_Tremellomycetes	3	3	3	1	1	1	2
-EukFunBas_Microbotryomycetes	1	0	0	0	0	0	1
-EukFunBas_Wallemiomycetes	0	0	0	1	0	0	0
-EukFunBas_Agaricomycetes	2	1	1	3	2	1	3
-EukFunBas_Ustilaginomycetes	2	2	2	3	1	1	0
-EukFunMuc_Mortierellomycetes	1	1	1	1	1	1	1
-EukFunMuc_Mucoromycetes	1	1	1	1	1	1	1
-EukFunMuc_Glomeromycetes	1	1	1	1	1	1	1
-EukApuThe_Thecamonas trahens	0	0	0	0	0	1	0
-EukApiAco_Haemosporida	0	3	1	1	1	2	2
-EukApiAco_Piroplasmida	1	0	1	2	1	1	1
-EukApiCon_Eugregarinorida	0	1	1	0	0	1	1
-EukApiCon_Eucoccidiorida	1	0	2	0	1	4	2
-EukTriTri_Trichomonas	0	0	0	0	0	0	1
-EukPerPer_Perkinsidae	0	0	0	0	1	0	0
-EukBlaBla_Blastocystis hominis	0	0	1	0	1	0	0
-ArcThaCan_	0	0	0	1	0	0	0
-ArcThaCan_Candidatus Nitrosotenuis uzonensis	0	0	0	1	0	0	0
-ArcEurMet_Methanobacteriales	5	4	1	3	3	1	1
-ArcEurHal_Haloferacales	1	1	2	0	3	1	3
-ArcEurHal_Natrialbales	1	1	2	2	1	1	1
-ArcEurHal_Halobacteriales	1	0	2	1	1	3	5
-ArcEurMet_Methanosarcinales	11	17	3	8	10	0	0
-ArcEurMet_Methanomicrobiales	0	3	2	1	1	2	2
-ArcEurMet_Methanococcales	0	2	0	0	0	0	0
-ArcEurThe_Thermococcales	1	1	1	1	1	2	2
+Domain	Phylum	Class	Order	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	1	0	2	1	1	3	5
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	1	1	2	0	3	1	3
+Archaea	Euryarchaeota	Halobacteria	Natrialbales	1	1	2	2	1	1	1
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	5	4	1	3	3	1	1
+Archaea	Euryarchaeota	Methanococci	Methanococcales	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	0	3	2	1	1	2	2
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	11	17	3	8	10	0	0
+Archaea	Euryarchaeota	Thermococci	Thermococcales	1	1	1	1	1	2	2
+Archaea	Thaumarchaeota	Candidatus Nitrosotenuis	Candidatus Nitrosotenuis uzonensis	0	0	0	1	0	0	0
+Eukaryota	Acytosteliales	Acytosteliaceae	Heterostelium	0	0	0	0	0	1	0
+Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	0	3	1	1	1	2	2
+Eukaryota	Apicomplexa	Aconoidasida	Piroplasmida	1	0	1	2	1	1	1
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	1	0	2	0	1	4	2
+Eukaryota	Apicomplexa	Conoidasida	Eugregarinorida	0	1	1	0	0	1	1
+Eukaryota	Apusomonadidae	Thecamonas	Thecamonas trahens	0	0	0	0	0	1	0
+Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	0	0	0	0	1	0	0
+Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	0	0	0	0	1	0	0
+Eukaryota	Blastocystidae	Blastocystis	Blastocystis hominis	0	0	1	0	1	0	0
+Eukaryota	Dictyosteliales	Dictyosteliaceae	Dictyostelium	1	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Entamoeba	Entamoeba dispar	0	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Entamoeba	Entamoeba histolytica	0	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Entamoeba	Entamoeba invadens	0	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Entamoeba	Entamoeba nuttalli	0	0	0	1	0	0	0
+Eukaryota	Eustigmatophyceae	Eustigmatales	Monodopsidaceae	0	1	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	5	3	4	7	3	9	5
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	29	25	29	34	35	32	34
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	6	5	6	5	3	6	7
+Eukaryota	Fungi	Ascomycota	Orbiliomycetes	0	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Pezizomycetes	0	1	1	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	0	0	1	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	14	15	13	17	14	15	15
+Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	1	1	2	2	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	24	21	23	25	22	22	21
+Eukaryota	Fungi	Ascomycota	Xylonomycetes	1	1	1	1	1	1	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	2	1	1	3	2	1	3
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	1	1	3	2	1	1	1
+Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	1	0	1	0	1	2	2
+Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	1	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	2	1	1	2	2	2	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	3	3	3	1	1	1	2
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	2	2	2	3	1	1	0
+Eukaryota	Fungi	Basidiomycota	Wallemiomycetes	0	0	0	1	0	0	0
+Eukaryota	Fungi	Mucoromycota	Glomeromycetes	1	1	1	1	1	1	1
+Eukaryota	Fungi	Mucoromycota	Mortierellomycetes	1	1	1	1	1	1	1
+Eukaryota	Fungi	Mucoromycota	Mucoromycetes	1	1	1	1	1	1	1
+Eukaryota	Haptophyta	Isochrysidales	Noelaerhabdaceae	0	0	1	0	0	0	0
+Eukaryota	Kinetoplastida	Trypanosomatidae	Leishmania	0	1	1	0	0	0	0
+Eukaryota	Kinetoplastida	Trypanosomatidae	Trypanosoma	0	0	0	0	0	1	1
+Eukaryota	Oomycetes	Peronosporales	Peronosporaceae	0	0	0	0	0	1	0
+Eukaryota	Oomycetes	Saprolegniales	Saprolegniaceae	1	0	0	0	0	0	0
+Eukaryota	Perkinsozoa	Perkinsida	Perkinsidae	0	0	0	0	1	0	0
+Eukaryota	Trichomonadida	Trichomonadidae	Trichomonas	0	0	0	0	0	0	1

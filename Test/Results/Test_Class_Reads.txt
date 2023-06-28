@@ -1,26 +1,26 @@
-Reads	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-EukHap_Isochrysidales	0	0	1	0	0	0	0
-EukOom_Saprolegniales	2	0	0	0	0	0	0
-EukOom_Peronosporales	0	0	0	0	0	2	0
-EukBac_Bacillariophyceae	0	0	0	0	1	0	0
-EukBac_Coscinodiscophyceae	0	0	0	0	4	0	0
-EukEus_Eustigmatales	0	1	0	1	0	0	0
-EukDic_Dictyosteliaceae	1	0	0	1	0	0	0
-EukEnt_Entamoeba	0	0	0	8	0	0	0
-EukAcy_Acytosteliaceae	0	0	0	0	0	2	0
-EukKin_Trypanosomatidae	0	1	1	0	0	11	3
-EukFun_Ascomycota	447	349	635	1262	887	307	414
-EukFun_Basidiomycota	1116	21	23	69	13	52	15
-EukFun_Mucoromycota	63	54	123	96	91	43	37
-EukApu_Thecamonas	0	0	0	0	0	1	0
-EukApi_Aconoidasida	10	12	2	100	14	64	48
-EukApi_Conoidasida	20	1	3	0	14	7	8
-EukTri_Trichomonadidae	0	0	0	0	0	0	1
-EukPer_Perkinsida	0	0	0	0	1	0	0
-EukBla_Blastocystis	0	0	3	0	1	0	0
-ArcTha_Candidatus Nitrosotenuis	0	0	0	2	0	0	0
-ArcEur_Methanobacteria	83	25	1	17	101	2	1
-ArcEur_Halobacteria	15	111	10	9	15	6	21
-ArcEur_Methanomicrobia	9670	44166	16	416	783	39	47
-ArcEur_Methanococci	0	4	0	0	0	0	0
-ArcEur_Thermococci	3	3	7	8	12	10	4
+Domain	Phylum	Class	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	Halobacteria	15	111	10	9	15	6	21
+Archaea	Euryarchaeota	Methanobacteria	83	25	1	17	101	2	1
+Archaea	Euryarchaeota	Methanococci	0	4	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	9670	44166	16	416	783	39	47
+Archaea	Euryarchaeota	Thermococci	3	3	7	8	12	10	4
+Archaea	Thaumarchaeota	Candidatus Nitrosotenuis	0	0	0	2	0	0	0
+Eukaryota	Acytosteliales	Acytosteliaceae	0	0	0	0	0	2	0
+Eukaryota	Apicomplexa	Aconoidasida	10	12	2	100	14	64	48
+Eukaryota	Apicomplexa	Conoidasida	20	1	3	0	14	7	8
+Eukaryota	Apusomonadidae	Thecamonas	0	0	0	0	0	1	0
+Eukaryota	Bacillariophyta	Bacillariophyceae	0	0	0	0	1	0	0
+Eukaryota	Bacillariophyta	Coscinodiscophyceae	0	0	0	0	4	0	0
+Eukaryota	Blastocystidae	Blastocystis	0	0	3	0	1	0	0
+Eukaryota	Dictyosteliales	Dictyosteliaceae	1	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Entamoeba	0	0	0	8	0	0	0
+Eukaryota	Eustigmatophyceae	Eustigmatales	0	1	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	447	349	635	1262	887	307	414
+Eukaryota	Fungi	Basidiomycota	1116	21	23	69	13	52	15
+Eukaryota	Fungi	Mucoromycota	63	54	123	96	91	43	37
+Eukaryota	Haptophyta	Isochrysidales	0	0	1	0	0	0	0
+Eukaryota	Kinetoplastida	Trypanosomatidae	0	1	1	0	0	11	3
+Eukaryota	Oomycetes	Peronosporales	0	0	0	0	0	2	0
+Eukaryota	Oomycetes	Saprolegniales	2	0	0	0	0	0	0
+Eukaryota	Perkinsozoa	Perkinsida	0	0	0	0	1	0	0
+Eukaryota	Trichomonadida	Trichomonadidae	0	0	0	0	0	0	1

@@ -1,215 +1,198 @@
-Reads	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-EukHapIsoNoeEmiEmi_	0	0	1	0	0	0	0
-EukOomSapSapSapSap_	2	0	0	0	0	0	0
-EukOomPerPerPhyPhy_	0	0	0	0	0	2	0
-EukBacBacNavPhaPha_Phaeodactylum tricornutum	0	0	0	0	1	0	0
-EukBacCosThaThaTha_Thalassiosira pseudonana	0	0	0	0	4	0	0
-EukEusEusMonNanNan_	0	1	0	1	0	0	0
-EukDicDicDicDic_	1	0	0	1	0	0	0
-EukEntEntEnt_	0	0	0	8	0	0	0
-EukAcyAcyHetHet_	0	0	0	0	0	2	0
-EukKinTryLeiLei_	0	1	1	0	0	0	0
-EukKinTryTryTry_	0	0	0	0	0	11	3
-EukFunAscLeoHelLac_Lachnellula	0	0	2	1	0	2	2
-EukFunAscLeoHelDer_Marssonina	6	1	2	50	6	6	6
-EukFunAscLeoHelHya_Hyaloscypha	2	2	3	1	0	5	0
-EukFunAscLeoHelHel_Glarea	0	0	0	0	1	0	0
-EukFunAscLeoHelScl_Botrytis	1	2	0	0	0	0	1
-EukFunAscLeoHelScl_Sclerotinia	1	0	1	1	0	0	1
-EukFunAscLeoHelPhi_Phialocephala scopiformis	0	0	0	0	0	2	0
-EukFunAscLeoPsePse_Pseudogymnoascus destructans	0	1	1	1	0	10	37
-EukFunAscLeoPsePse_Pseudogymnoascus verrucosus	1	1	2	0	2	14	11
-EukFunAscLeoMyxAmo_Amorphotheca resinae	2	0	0	0	0	0	1
-EukFunAscPnePnePne_Pneumocystis	0	0	1	0	1	1	0
-EukFunAscSacSacSac_Kazachstania	0	0	0	0	0	0	1
-EukFunAscSacSacSac_Tetrapisispora	9	6	3	5	8	1	1
-EukFunAscSacSacSac_Eremothecium	0	0	0	0	2	0	0
-EukFunAscSacSacSac_Saccharomyces	1	20	9	10	0	0	0
-EukFunAscSacSacSac_Vanderwaltozyma	0	0	0	0	0	2	10
-EukFunAscSacSacSac_Zygosaccharomyces	6	7	9	8	9	8	2
-EukFunAscSacSacSac_Kluyveromyces	1	1	0	4	1	0	4
-EukFunAscSacSacPha_Wickerhamomyces	0	5	1	0	1	70	154
-EukFunAscSacSacPha_Cyberlindnera	0	1	0	0	1	1	0
-EukFunAscSacSacDip_Yarrowia	3	8	2	0	0	2	7
-EukFunAscSacSacMet_Metschnikowia	27	0	0	1	0	0	0
-EukFunAscSacSacMet_Clavispora	11	7	7	13	8	5	7
-EukFunAscSacSacDeb_Lodderomyces	3	4	4	5	1	3	5
-EukFunAscSacSacDeb_Meyerozyma	0	0	0	0	1	0	0
-EukFunAscSacSacDeb_Candida	5	2	6	9	5	5	1
-EukFunAscSacSacDeb_Babjeviella	0	0	0	1	0	0	0
-EukFunAscSacSacDeb_Hyphopichia	1	1	1	6	8	4	0
-EukFunAscSacSacDeb_Spathaspora	0	0	0	1	0	1	1
-EukFunAscSacSacAsc_Ascoidea	0	3	0	2	1	1	3
-EukFunAscSacSacPic_Pichia	0	0	1	0	3	0	1
-EukFunAscSacSacPic_Ogataea	0	5	8	5	0	0	0
-EukFunAscPezPezTub_Tuber	0	1	2	2	0	0	1
-EukFunAscDotCapMyc_Pseudocercospora	2	0	0	12	0	4	0
-EukFunAscDotCapMyc_Sphaerulina	1	0	1	1	0	2	1
-EukFunAscDotPlePle_Exserohilum	0	1	1	9	0	5	1
-EukFunAscDotPlePle_Alternaria	0	0	0	0	0	1	1
-EukFunAscDotPlePle_Bipolaris	0	0	2	2	0	0	0
-EukFunAscDotPlePle_Pyrenophora	0	0	0	0	0	1	0
-EukFunAscDotPlePha_Parastagonospora	0	0	0	0	0	1	0
-EukFunAscDotPleLep_Leptosphaeria	0	0	0	0	0	2	1
-EukFunAscDotPleDid_Paraphaeosphaeria	0	1	0	0	0	0	0
-EukFunAscDotVenSym_Verruconis	1	4	0	1	0	0	1
-EukFunAscDotConCon_	0	0	0	0	1	0	0
-EukFunAscDotBotBot_Diplodia	10	0	0	34	3	1	0
-EukFunAscDotDotSac_Aureobasidium	1	0	0	0	2	2	0
-EukFunAscXylXylXyl_Xylona	1	2	2	16	1	1	3
-EukFunAscSorMagMag_Gaeumannomyces	0	1	1	1	0	0	0
-EukFunAscSorMagPyr_Pyricularia	13	12	19	15	16	14	8
-EukFunAscSorOphOph_Grosmannia	1	0	0	0	0	0	0
-EukFunAscSorOphOph_Sporothrix	0	1	0	0	0	2	1
-EukFunAscSorXylSpo_Pestalotiopsis	0	0	0	0	0	1	0
-EukFunAscSorXylPhi_Phialemoniopsis curvata	0	1	1	0	0	0	1
-EukFunAscSorSorCha_Podospora	4	2	2	5	5	0	4
-EukFunAscSorSorCha_Thermothelomyces	1	1	1	1	28	3	0
-EukFunAscSorSorCha_Chaetomium	7	0	2	4	3	1	0
-EukFunAscSorSorCha_Thermothielavioides	0	2	0	1	0	3	2
-EukFunAscSorSorSor_Neurospora	1	2	2	3	3	1	3
-EukFunAscSorSorSor_Sordaria	1	0	1	3	3	4	3
-EukFunAscSorGloPle_Sodiomyces	1	0	0	2	1	0	0
-EukFunAscSorGloPle_Verticillium	1	0	0	0	15	1	1
-EukFunAscSorGloGlo_Colletotrichum	50	23	29	38	34	24	21
-EukFunAscSorTogTog_Phaeoacremonium	0	0	0	0	0	0	2
-EukFunAscSorHypOph_Purpureocillium	0	0	0	12	0	0	0
-EukFunAscSorHypCla_Pochonia	0	0	10	0	0	0	1
-EukFunAscSorHypCla_Metarhizium	6	9	11	9	12	3	4
-EukFunAscSorHypNec_Fusarium	12	2	2	0	4	5	1
-EukFunAscSorHypCor_Beauveria	0	1	9	0	2	1	0
-EukFunAscSorHypCor_Cordyceps	0	0	0	0	0	1	0
-EukFunAscSorHypHyp_Trichoderma	8	8	7	7	6	4	14
-EukFunAscSorMicMic_Scedosporium	2	0	2	1	6	1	1
-EukFunAscSchSchSch_Schizosaccharomyces	1	1	3	2	0	0	2
-EukFunAscEurEurThe_Byssochlamys	4	0	0	0	0	0	0
-EukFunAscEurEurAsp_Penicilliopsis	0	1	0	0	0	1	3
-EukFunAscEurEurAsp_Penicillium	0	0	0	5	576	3	1
-EukFunAscEurEurAsp_Aspergillus	189	74	390	805	74	39	36
-EukFunAscEurEurTri_Rasamsonia	0	2	0	0	0	0	0
-EukFunAscEurEurTri_Talaromyces	0	1	0	0	2	0	0
-EukFunAscEurVerVer_Endocarpon	0	1	0	0	0	0	0
-EukFunAscEurChaHer_Capronia	2	0	1	20	0	1	4
-EukFunAscEurChaHer_Exophiala	18	3	5	7	1	4	9
-EukFunAscEurChaHer_Phialophora	0	0	0	1	0	0	0
-EukFunAscEurChaHer_Fonsecaea	1	0	2	0	1	2	3
-EukFunAscEurChaHer_Rhinocladiella	0	0	1	0	1	0	0
-EukFunAscEurChaHer_Cladophialophora	7	0	0	0	1	6	9
-EukFunAscEurOnyPar_Paracoccidioides lutzii	1	2	1	3	1	1	0
-EukFunAscEurOnyPar_Paracoccidioides brasiliensis	1	1	2	0	2	0	0
-EukFunAscEurOnyCoc_Coccidioides posadasii	3	2	1	3	4	1	4
-EukFunAscEurOnyCoc_Coccidioides immitis	1	2	6	5	2	1	1
-EukFunAscEurOnyArt_Trichophyton	7	7	7	6	6	4	6
-EukFunAscEurOnyArt_Microsporum	0	0	1	0	1	0	0
-EukFunAscEurOnyAje_Blastomyces	5	3	2	4	4	5	2
-EukFunAscEurOnyAje_Histoplasma	3	6	2	6	5	4	0
-EukFunAscOrbOrbOrb_Arthrobotrys	0	92	41	92	2	3	2
-EukFunBasExoGeoTil_Tilletiaria	1	0	0	0	0	0	0
-EukFunBasExoCerCer_Ceraceosorus	0	0	1	1	0	1	0
-EukFunBasExoMicPse_Pseudomicrostroma glucosiphilum	0	0	2	0	1	0	0
-EukFunBasExoMicJam_Jaminaea rosea	0	0	0	0	0	0	1
-EukFunBasExoEntTil_Tilletiopsis washingtonensis	0	1	1	1	0	0	0
-EukFunBasPucPucMel_Melampsora	1	0	0	2	1	2	0
-EukFunBasPucPucPuc_Puccinia	1	3	1	4	5	1	2
-EukFunBasMalMalMal_Malassezia	1028	0	1	0	1	45	6
-EukFunBasTreTriTri_Apiotrichum	7	0	0	0	1	0	1
-EukFunBasTreTriTri_Cutaneotrichosporon	1	1	0	0	0	0	0
-EukFunBasTreTreCry_Cryptococcus	0	1	0	0	0	0	0
-EukFunBasTreTreCry_Kwoniella	6	3	3	3	0	1	1
-EukFunBasMicSpoSpo_Rhodotorula	5	0	0	0	0	0	1
-EukFunBasWalWalWal_Wallemia	0	0	0	27	0	0	0
-EukFunBasAgaPolDac_Postia	0	0	0	21	1	0	0
-EukFunBasAgaCorPun_Punctularia	3	0	0	0	0	0	0
-EukFunBasAgaRusSte_Stereum	0	0	0	0	0	0	1
-EukFunBasAgaAgaAga_Agaricus	1	0	0	0	0	0	0
-EukFunBasAgaAgaPsa_Coprinopsis	0	0	0	0	1	0	1
-EukFunBasAgaGloGlo_Gloeophyllum	0	0	0	1	0	0	0
-EukFunBasAgaBolCon_Coniophora	0	10	8	4	0	1	1
-EukFunBasUstUstUst_Kalmanozyma	0	0	0	2	0	0	0
-EukFunBasUstUstUst_Sporisorium	0	0	0	0	0	1	0
-EukFunBasUstUstUst_Ustilago	2	0	1	2	0	0	0
-EukFunBasUstUstUst_Moesziomyces	0	1	0	0	2	0	0
-EukFunBasUstUstUst_Anthracocystis	60	1	5	1	0	0	0
-EukFunMucMorMorMor_Lobosporangium	16	17	63	30	36	16	8
-EukFunMucMucMucPhy_Phycomyces	5	4	14	5	4	5	2
-EukFunMucGloGloGlo_Rhizophagus	42	33	46	61	51	22	27
-EukApuTheThe_	0	0	0	0	0	1	0
-EukApiAcoHaePlaPla_Plasmodium reichenowi	0	1	0	0	0	1	2
-EukApiAcoHaePlaPla_Plasmodium falciparum	0	2	0	0	0	2	22
-EukApiAcoHaePlaPla_Plasmodium yoelii	0	0	1	0	0	0	0
-EukApiAcoHaePlaPla_Plasmodium fragile	0	9	0	3	1	0	0
-EukApiAcoPirBabBab_Babesia bigemina	10	0	0	96	13	61	24
-EukApiAcoPirBabBab_Babesia microti	0	0	1	1	0	0	0
-EukApiConEugGreGre_Gregarina niphandrodes	0	1	1	0	0	1	1
-EukApiConEucCryCry_Cryptosporidium hominis	0	0	1	0	0	0	0
-EukApiConEucEimCyc_Cyclospora cayetanensis	0	0	0	0	0	0	1
-EukApiConEucEimEim_Eimeria mitis	20	0	0	0	0	1	6
-EukApiConEucSarNeo_Neospora caninum	0	0	0	0	0	1	0
-EukApiConEucSarTox_Toxoplasma gondii	0	0	0	0	0	2	0
-EukApiConEucSarHam_Hammondia hammondi	0	0	1	0	14	2	0
-EukTriTriTriTri_	0	0	0	0	0	0	1
-EukPerPerPerPerPer_	0	0	0	0	1	0	0
-EukBlaBlaBla_	0	0	3	0	1	0	0
-ArcThaCan_	0	0	0	1	0	0	0
-ArcThaCanCan_	0	0	0	1	0	0	0
-ArcEurMetMetMetMet_Methanothermobacter marburgensis	1	0	0	0	0	0	0
-ArcEurMetMetMetMet_Methanosphaera stadtmanae	0	0	0	0	0	2	1
-ArcEurMetMetMetMet_Methanobrevibacter curvatus	0	2	1	0	0	0	0
-ArcEurMetMetMetMet_Methanobrevibacter ruminantium	0	0	0	1	0	0	0
-ArcEurMetMetMetMet_Methanobacterium subterraneum	8	0	0	0	1	0	0
-ArcEurMetMetMetMet_Methanobacterium veterum	4	11	0	14	80	0	0
-ArcEurMetMetMetMet_Methanobacterium formicicum	67	10	0	2	20	0	0
-ArcEurMetMetMetMet_Methanobacterium paludis	0	2	0	0	0	0	0
-ArcEurMetMetMetMet_Methanobacterium congolense	3	0	0	0	0	0	0
-ArcEurHalHalhal_	0	0	0	0	0	0	1
-ArcEurHalHalHalHal_Halogeometricum limi	0	0	0	0	0	1	0
-ArcEurHalHalHalHal_Haloferax elongans	0	0	0	0	0	0	1
-ArcEurHalHalHalHal_Haloquadratum walsbyi	0	0	0	0	2	0	0
-ArcEurHalHalHalHal_Halopelagius inordinatus	0	110	0	0	1	0	0
-ArcEurHalHalHalHal_Haloprofundus marisrubri	0	0	1	0	0	0	0
-ArcEurHalHalHalHal_Haloparvum sedimenti	0	0	0	0	0	0	1
-ArcEurHalHalHalHal_Halopenitus malekzadehii	0	0	0	0	1	0	0
-ArcEurHalHalHalHal_Halorubrum lipolyticum	1	0	0	0	0	0	0
-ArcEurHalHalHalHal_Halolamina sediminis	0	0	4	0	0	0	0
-ArcEurHalNatNatNat_Natronorubrum tibetense	0	0	2	3	0	0	0
-ArcEurHalNatNatNat_Natronobacterium gregoryi	0	0	0	0	0	1	0
-ArcEurHalNatNatHal_Halopiger djelfimassiliensis	5	0	0	0	0	0	0
-ArcEurHalNatNatHal_Halostagnicola larsenii	0	1	1	5	1	0	1
-ArcEurHalHalHalHal_Halalkalicoccus paucihalophilus	9	0	0	0	0	1	5
-ArcEurHalHalHalHal_Halanaeroarchaeum sulfurireducens	0	0	0	0	0	0	1
-ArcEurHalHalHalHal_Haloarchaeobius iranensis	0	0	0	0	10	0	0
-ArcEurHalHalHalHal_Halomicrobium mukohataei	0	0	1	0	0	0	1
-ArcEurHalHalHalNat_Natronomonas moolapensis	0	0	1	0	0	0	2
-ArcEurHalHalHalHal_Halapricum salinum	0	0	0	0	0	2	8
-ArcEurHalHalHalHal_Haloarcula hispanica	0	0	0	1	0	0	0
-ArcEurHalHalHalHal_Haloarcula vallismortis	0	0	0	0	0	1	0
-ArcEurMetMetMetMet_Methanosarcina acetivorans	15	114	0	0	2	0	0
-ArcEurMetMetMetMet_Methanosarcina spelaei	167	623	0	12	5	0	0
-ArcEurMetMetMetMet_Methanosarcina flavescens	19	71	0	3	5	0	0
-ArcEurMetMetMetMet_Methanosarcina sp Ant1	0	1	0	0	0	0	0
-ArcEurMetMetMetMet_Methanosarcina siciliae	10	42	0	1	4	0	0
-ArcEurMetMetMetMet_Methanosarcina mazei	13	82	0	0	2	0	0
-ArcEurMetMetMetMet_Methanosarcina horonobensis	35	133	0	3	8	0	0
-ArcEurMetMetMetMet_Methanosarcina barkeri	8836	40926	2	376	613	0	0
-ArcEurMetMetMetMet_Methanosarcina lacustris	24	142	0	3	3	0	0
-ArcEurMetMetMetMet_Methanosarcina vacuolata	424	1916	0	16	113	0	0
-ArcEurMetMetMetMet_Methanosarcina thermophila	23	96	0	1	1	0	0
-ArcEurMetMetMetMet_Methanomethylovorans hollandica	104	0	0	0	0	0	0
-ArcEurMetMetMetMet_Methanohalophilus mahii	0	1	0	0	0	0	0
-ArcEurMetMetMetMet_Methanolobus profundi	0	1	0	0	0	0	0
-ArcEurMetMetMetMet_Methanolobus vulcani	0	2	0	0	0	0	0
-ArcEurMetMetMetMet_Methanolobus psychrophilus	0	2	0	0	0	0	0
-ArcEurMetMetMetMet_Methanococcoides burtonii	0	2	0	0	0	0	0
-ArcEurMetMetMetMet_Methanococcoides methylutens	0	1	0	0	0	0	0
-ArcEurMetMetMetMet_Methanosaeta harundinacea	0	0	3	0	0	0	0
-ArcEurMetMetMetMet_Methanothrix soehngenii	0	0	5	0	0	0	0
-ArcEurMetMetMetMet_Methanosphaerula palustris	0	6	4	0	0	38	45
-ArcEurMetMetMetMet_Methanomicrobiales archaeon HGW Methanomicrobiales 5	0	0	2	0	0	0	0
-ArcEurMetMetMetMet_Methanoplanus limicola	0	0	0	0	0	1	2
-ArcEurMetMetMetMet_Methanoculleus marisnigri	0	4	0	0	0	0	0
-ArcEurMetMetMetMet_Methanoculleus thermophilus	0	1	0	0	0	0	0
-ArcEurMetMetMetMet_Methanofollis liminatans	0	0	0	1	27	0	0
-ArcEurMetMetMetMet_Methanothermococcus okinawensis	0	2	0	0	0	0	0
-ArcEurMetMetMetMet_Methanocaldococcus fervens	0	2	0	0	0	0	0
-ArcEurTheTheTheThe_Thermococcus gorgonarius	0	0	0	0	0	7	2
-ArcEurTheTheTheThe_Thermococcus chitonophagus	3	3	7	8	12	3	2
+Domain	Phylum	Class	Order	Family	Genus	Species	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Halapricum	Halapricum salinum	0	0	0	0	0	2	8
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	Haloarcula hispanica	0	0	0	1	0	0	0
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	Haloarcula vallismortis	0	0	0	0	0	1	0
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Halomicrobium	Halomicrobium mukohataei	0	0	1	0	0	0	1
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Natronomonas	Natronomonas moolapensis	0	0	1	0	0	0	2
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Halalkalicoccus	Halalkalicoccus paucihalophilus	9	0	0	0	0	1	5
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Halanaeroarchaeum	Halanaeroarchaeum sulfurireducens	0	0	0	0	0	0	1
+Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Haloarchaeobius	Haloarchaeobius iranensis	0	0	0	0	10	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloferax	Haloferax elongans	0	0	0	0	0	0	1
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Halogeometricum	Halogeometricum limi	0	0	0	0	0	1	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Halopelagius	Halopelagius inordinatus	0	110	0	0	1	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloprofundus	Haloprofundus marisrubri	0	0	1	0	0	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloquadratum	Haloquadratum walsbyi	0	0	0	0	2	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halolamina	Halolamina sediminis	0	0	4	0	0	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Haloparvum	Haloparvum sedimenti	0	0	0	0	0	0	1
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halopenitus	Halopenitus malekzadehii	0	0	0	0	1	0	0
+Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halorubrum	Halorubrum lipolyticum	1	0	0	0	0	0	0
+Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Halopiger	Halopiger djelfimassiliensis	5	0	0	0	0	0	0
+Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Halostagnicola	Halostagnicola larsenii	0	1	1	5	1	0	1
+Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Natronobacterium	Natronobacterium gregoryi	0	0	0	0	0	1	0
+Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Natronorubrum	Natronorubrum tibetense	0	0	2	3	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium congolense	3	0	0	0	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium formicicum	67	10	0	2	20	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium paludis	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium subterraneum	8	0	0	0	1	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium veterum	4	11	0	14	80	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter curvatus	0	2	1	0	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter ruminantium	0	0	0	1	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanosphaera	Methanosphaera stadtmanae	0	0	0	0	0	2	1
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanothermobacter	Methanothermobacter marburgensis	1	0	0	0	0	0	0
+Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	Methanocaldococcus fervens	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanococcaceae	Methanothermococcus	Methanothermococcus okinawensis	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoculleus	Methanoculleus marisnigri	0	4	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoculleus	Methanoculleus thermophilus	0	1	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanofollis	Methanofollis liminatans	0	0	0	1	27	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanoplanus	Methanoplanus limicola	0	0	0	0	0	1	2
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiales unclassified	Methanomicrobiales unclassified	Methanomicrobiales archaeon HGW Methanomicrobiales 5	0	0	2	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanosphaerula	Methanosphaerula palustris	0	6	4	0	0	38	45
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanococcoides	Methanococcoides burtonii	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanococcoides	Methanococcoides methylutens	0	1	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanohalophilus	Methanohalophilus mahii	0	1	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus profundi	0	1	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus psychrophilus	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus vulcani	0	2	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanomethylovorans	Methanomethylovorans hollandica	104	0	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina acetivorans	15	114	0	0	2	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina barkeri	8836	40926	2	376	613	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina flavescens	19	71	0	3	5	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina horonobensis	35	133	0	3	8	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina lacustris	24	142	0	3	3	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina mazei	13	82	0	0	2	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina siciliae	10	42	0	1	4	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina sp Ant1	0	1	0	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina spelaei	167	623	0	12	5	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina thermophila	23	96	0	1	1	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina vacuolata	424	1916	0	16	113	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanotrichaceae	Methanothrix	Methanosaeta harundinacea	0	0	3	0	0	0	0
+Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanotrichaceae	Methanothrix	Methanothrix soehngenii	0	0	5	0	0	0	0
+Archaea	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus chitonophagus	3	3	7	8	12	3	2
+Archaea	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus gorgonarius	0	0	0	0	0	7	2
+Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium falciparum	0	2	0	0	0	2	22
+Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium fragile	0	9	0	3	1	0	0
+Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium reichenowi	0	1	0	0	0	1	2
+Eukaryota	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium yoelii	0	0	1	0	0	0	0
+Eukaryota	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia bigemina	10	0	0	96	13	61	24
+Eukaryota	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia microti	0	0	1	1	0	0	0
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Cryptosporidiidae	Cryptosporidium	Cryptosporidium hominis	0	0	1	0	0	0	0
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Eimeriidae	Cyclospora	Cyclospora cayetanensis	0	0	0	0	0	0	1
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Eimeriidae	Eimeria	Eimeria mitis	20	0	0	0	0	1	6
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Hammondia	Hammondia hammondi	0	0	1	0	14	2	0
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Neospora	Neospora caninum	0	0	0	0	0	1	0
+Eukaryota	Apicomplexa	Conoidasida	Eucoccidiorida	Sarcocystidae	Toxoplasma	Toxoplasma gondii	0	0	0	0	0	2	0
+Eukaryota	Apicomplexa	Conoidasida	Eugregarinorida	Gregarinidae	Gregarina	Gregarina niphandrodes	0	1	1	0	0	1	1
+Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Phaeodactylaceae	Phaeodactylum	Phaeodactylum tricornutum	0	0	0	0	1	0	0
+Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira pseudonana	0	0	0	0	4	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Diplodia	10	0	0	34	3	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	2	0	0	12	0	4	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Sphaerulina	1	0	1	1	0	2	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Dothideales	Saccotheciaceae	Aureobasidium	1	0	0	0	2	2	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Leptosphaeria	0	0	0	0	0	2	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	0	0	2	2	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Exserohilum	0	1	1	9	0	5	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Venturiales	Sympoventuriaceae	Verruconis	1	4	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Capronia	2	0	1	20	0	1	4
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	7	0	0	0	1	6	9
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	18	3	5	7	1	4	9
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	1	0	2	0	1	2	3
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	0	0	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	189	74	390	805	74	39	36
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicilliopsis	0	1	0	0	0	1	3
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	0	0	0	5	576	3	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Thermoascaceae	Byssochlamys	4	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	0	2	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	0	1	0	0	2	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Blastomyces	5	3	2	4	4	5	2
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Histoplasma	3	6	2	6	5	4	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Microsporum	0	0	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	7	7	7	6	6	4	6
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Coccidioides	Coccidioides immitis	1	2	6	5	2	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Coccidioides	Coccidioides posadasii	3	2	1	3	4	1	4
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Paracoccidioides	Paracoccidioides brasiliensis	1	1	2	0	2	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Paracoccidioides	Paracoccidioides lutzii	1	2	1	3	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Endocarpon	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	Marssonina	6	1	2	50	6	6	6
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	2	2	3	1	0	5	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Lachnaceae	Lachnellula	0	0	2	1	0	2	2
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Phialocephala	Phialocephala scopiformis	0	0	0	0	0	2	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	1	2	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	1	0	1	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Myxotrichaceae	Amorphotheca	Amorphotheca resinae	2	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus destructans	0	1	1	1	0	10	37
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus verrucosus	1	1	2	0	2	14	11
+Eukaryota	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	0	92	41	92	2	3	2
+Eukaryota	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber	0	1	2	2	0	0	1
+Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	0	0	1	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Ascoideaceae	Ascoidea	0	3	0	2	1	1	3
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Babjeviella	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	5	2	6	9	5	5	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Hyphopichia	1	1	1	6	8	4	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Lodderomyces	3	4	4	5	1	3	5
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Meyerozyma	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Spathaspora	0	0	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	3	8	2	0	0	2	7
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	11	7	7	13	8	5	7
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Metschnikowia	27	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	0	1	0	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	0	5	1	0	1	70	154
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	0	5	8	5	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	0	0	1	0	3	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	0	0	0	0	2	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	0	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	1	1	0	4	1	0	4
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	1	20	9	10	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Tetrapisispora	9	6	3	5	8	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Vanderwaltozyma	0	0	0	0	0	2	10
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Zygosaccharomyces	6	7	9	8	9	8	2
+Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	1	1	3	2	0	0	2
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	50	23	29	38	34	24	21
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Sodiomyces	1	0	0	2	1	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	1	0	0	0	15	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	6	9	11	9	12	3	4
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Pochonia	0	0	10	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	0	1	9	0	2	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	8	8	7	7	6	4	14
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	12	2	2	0	4	5	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium	0	0	0	12	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Magnaporthaceae	Gaeumannomyces	0	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	13	12	19	15	16	14	8
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	2	0	2	1	6	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Grosmannia	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Sporothrix	0	1	0	0	0	2	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	7	0	2	4	3	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Podospora	4	2	2	5	5	0	4
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothelomyces	1	1	1	1	28	3	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothielavioides	0	2	0	1	0	3	2
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	1	2	2	3	3	1	3
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	1	0	1	3	3	4	3
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Togniniales	Togniniaceae	Phaeoacremonium	0	0	0	0	0	0	2
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Xylariales	Phialemoniopsis	Phialemoniopsis curvata	0	1	1	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Xylonomycetes	Xylonales	Xylonaceae	Xylona	1	2	2	16	1	1	3
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	0	0	0	0	1	0	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Boletales	Coniophoraceae	Coniophora	0	10	8	4	0	1	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Punctulariaceae	Punctularia	3	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Gloeophyllales	Gloeophyllaceae	Gloeophyllum	0	0	0	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Dacryobolaceae	Postia	0	0	0	21	1	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	0	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Ceraceosorales	Ceraceosoraceae	Ceraceosorus	0	0	1	1	0	1	0
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Tilletiopsis	Tilletiopsis washingtonensis	0	1	1	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Georgefischeriales	Tilletiariaceae	Tilletiaria	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Microstromatales	Jaminaea	Jaminaea rosea	0	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Microstromatales	Pseudomicrostroma	Pseudomicrostroma glucosiphilum	0	0	2	0	1	0	0
+Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	1028	0	1	0	1	45	6
+Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	5	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	Melampsora	1	0	0	2	1	2	0
+Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	1	3	1	4	5	1	2
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	0	1	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	6	3	3	3	0	1	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	7	0	0	0	1	0	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Cutaneotrichosporon	1	1	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Anthracocystis	60	1	5	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Kalmanozyma	0	0	0	2	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Moesziomyces	0	1	0	0	2	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Sporisorium	0	0	0	0	0	1	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	2	0	1	2	0	0	0
+Eukaryota	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	Wallemiaceae	Wallemia	0	0	0	27	0	0	0
+Eukaryota	Fungi	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	42	33	46	61	51	22	27
+Eukaryota	Fungi	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Lobosporangium	16	17	63	30	36	16	8
+Eukaryota	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	5	4	14	5	4	5	2

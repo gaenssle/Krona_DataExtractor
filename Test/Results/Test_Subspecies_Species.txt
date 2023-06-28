@@ -1,245 +1,202 @@
-Species	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-EukHapIsoNoeEmiEmi_	0	0	1	0	0	0	0
-EukOomSapSapSapSap_	1	0	0	0	0	0	0
-EukOomPerPerPhyPhy_	0	0	0	0	0	1	0
-EukBacBacNavPhaPhaPha_	0	0	0	0	1	0	0
-EukBacCosThaThaThaTha_	0	0	0	0	1	0	0
-EukEusEusMonNanNan_	0	1	0	1	0	0	0
-EukDicDicDicDic_	1	0	0	1	0	0	0
-EukEntEntEnt_	0	0	0	4	0	0	0
-EukAcyAcyHetHet_	0	0	0	0	0	1	0
-EukKinTryLeiLei_	0	1	1	0	0	0	0
-EukKinTryTryTry_	0	0	0	0	0	1	1
-EukFunAscLeoHelLacLac_Lachnellula hyalina	0	0	1	1	0	1	1
-EukFunAscLeoHelDerMar_Marssonina brunnea	1	1	1	1	1	1	1
-EukFunAscLeoHelHyaHya_Hyaloscypha bicolor	1	1	1	1	0	1	0
-EukFunAscLeoHelHelGla_Glarea lozoyensis	0	0	0	0	1	0	0
-EukFunAscLeoHelSclBot_Botrytis cinerea	1	1	0	0	0	0	1
-EukFunAscLeoHelSclScl_Sclerotinia sclerotiorum	1	0	1	1	0	0	1
-EukFunAscLeoHelPhiPhi_	0	0	0	0	0	1	0
-EukFunAscLeoPsePsePse_	1	2	2	1	1	2	2
-EukFunAscLeoMyxAmoAmo_	1	0	0	0	0	0	1
-EukFunAscPnePnePnePne_Pneumocystis jirovecii	0	0	1	0	0	1	0
-EukFunAscPnePnePnePne_Pneumocystis carinii	0	0	0	0	1	0	0
-EukFunAscSacSacSacKaz_Kazachstania naganishii	0	0	0	0	0	0	1
-EukFunAscSacSacSacTet_Tetrapisispora blattae	1	1	1	1	1	1	1
-EukFunAscSacSacSacEre_Eremothecium sinecaudum	0	0	0	0	1	0	0
-EukFunAscSacSacSacSac_Saccharomyces cerevisiae	0	1	1	1	0	0	0
-EukFunAscSacSacSacSac_Saccharomyces eubayanus	1	0	0	0	0	0	0
-EukFunAscSacSacSacVan_Vanderwaltozyma polyspora	0	0	0	0	0	1	1
-EukFunAscSacSacSacZyg_Zygosaccharomyces rouxii	1	1	1	1	1	1	1
-EukFunAscSacSacSacKlu_Kluyveromyces marxianus	1	1	0	1	1	0	1
-EukFunAscSacSacPhaWic_Wickerhamomyces ciferrii	0	1	1	0	0	1	1
-EukFunAscSacSacPhaWic_Wickerhamomyces anomalus	0	1	0	0	1	0	0
-EukFunAscSacSacPhaCyb_Cyberlindnera jadinii	0	1	0	0	1	1	0
-EukFunAscSacSacDipYar_Yarrowia lipolytica	1	1	1	0	0	1	1
-EukFunAscSacSacMetMet_Metschnikowia bicuspidata	1	0	0	1	0	0	0
-EukFunAscSacSacMetCla_[Candida] auris	1	1	1	1	1	1	1
-EukFunAscSacSacMetCla_[Candida] duobushaemulonis	1	0	0	1	0	0	1
-EukFunAscSacSacMetCla_[Candida] pseudohaemulonis	1	0	1	1	0	1	1
-EukFunAscSacSacMetCla_[Candida] haemulonis	1	1	0	1	1	1	0
-EukFunAscSacSacDebLod_Lodderomyces elongisporus	1	1	1	1	1	1	1
-EukFunAscSacSacDebMey_Meyerozyma guilliermondii	0	0	0	0	1	0	0
-EukFunAscSacSacDebCan_Candida orthopsilosis	1	0	0	0	0	0	0
-EukFunAscSacSacDebCan_Candida tropicalis	0	0	1	1	0	0	1
-EukFunAscSacSacDebCan_Candida dubliniensis	1	1	1	1	1	1	0
-EukFunAscSacSacDebCan_Candida albicans	0	0	0	0	0	1	0
-EukFunAscSacSacDebBab_Babjeviella inositovora	0	0	0	1	0	0	0
-EukFunAscSacSacDebHyp_Hyphopichia burtonii	1	1	1	1	1	1	0
-EukFunAscSacSacDebSpa_Spathaspora passalidarum	0	0	0	1	0	1	1
-EukFunAscSacSacAscAsc_Ascoidea rubescens	0	1	0	1	1	1	1
-EukFunAscSacSacPicPic_Pichia kudriavzevii	0	0	1	0	1	0	0
-EukFunAscSacSacPicPic_Pichia membranifaciens	0	0	0	0	0	0	1
-EukFunAscSacSacPicOga_Ogataea polymorpha	0	1	1	1	0	0	0
-EukFunAscPezPezTubTub_Tuber melanosporum	0	1	1	1	0	0	1
-EukFunAscDotCapMycPse_Pseudocercospora fijiensis	1	0	0	1	0	1	0
-EukFunAscDotCapMycSph_Sphaerulina musiva	1	0	1	1	0	1	1
-EukFunAscDotPlePleExs_Exserohilum turcicum	0	1	1	1	0	1	1
-EukFunAscDotPlePleAlt_Alternaria alternata	0	0	0	0	0	1	1
-EukFunAscDotPlePleBip_Bipolaris sorokiniana	0	0	0	1	0	0	0
-EukFunAscDotPlePleBip_Bipolaris oryzae	0	0	1	0	0	0	0
-EukFunAscDotPlePleBip_Bipolaris maydis	0	0	0	1	0	0	0
-EukFunAscDotPlePleBip_Bipolaris victoriae	0	0	1	0	0	0	0
-EukFunAscDotPlePlePyr_Pyrenophora tritici-repentis	0	0	0	0	0	1	0
-EukFunAscDotPlePhaPar_Parastagonospora nodorum	0	0	0	0	0	1	0
-EukFunAscDotPleLepLep_Leptosphaeria maculans	0	0	0	0	0	1	1
-EukFunAscDotPleDidPar_Paraphaeosphaeria sporulosa	0	1	0	0	0	0	0
-EukFunAscDotVenSymVer_Verruconis gallopava	1	1	0	1	0	0	1
-EukFunAscDotConCon_	0	0	0	0	1	0	0
-EukFunAscDotBotBotDip_Diplodia corticola	1	0	0	1	1	1	0
-EukFunAscDotDotSacAur_Aureobasidium subglaciale	1	0	0	0	1	1	0
-EukFunAscXylXylXylXyl_Xylona heveae	1	1	1	1	1	1	1
-EukFunAscSorMagMagGae_Gaeumannomyces tritici	0	1	1	1	0	0	0
-EukFunAscSorMagPyrPyr_Pyricularia grisea	1	1	0	1	1	1	1
-EukFunAscSorMagPyrPyr_Pyricularia oryzae	1	0	0	1	0	1	0
-EukFunAscSorMagPyrPyr_Pyricularia pennisetigena	1	1	1	1	1	1	1
-EukFunAscSorOphOphGro_Grosmannia clavigera	1	0	0	0	0	0	0
-EukFunAscSorOphOphSpo_Sporothrix schenckii	0	1	0	0	0	1	1
-EukFunAscSorXylSpoPes_Pestalotiopsis fici	0	0	0	0	0	1	0
-EukFunAscSorXylPhiPhi_	0	1	1	0	0	0	1
-EukFunAscSorSorChaPod_Podospora anserina	1	1	1	1	1	0	1
-EukFunAscSorSorChaThe_Thermothelomyces thermophilus	1	1	1	1	1	1	0
-EukFunAscSorSorChaCha_Chaetomium thermophilum	1	0	1	1	1	0	0
-EukFunAscSorSorChaCha_Chaetomium globosum	0	0	1	1	0	1	0
-EukFunAscSorSorChaThe_Thermothielavioides terrestris	0	1	0	1	0	1	1
-EukFunAscSorSorSorNeu_Neurospora tetrasperma	1	0	0	1	1	1	0
-EukFunAscSorSorSorNeu_Neurospora crassa	0	1	1	1	1	0	1
-EukFunAscSorSorSorSor_Sordaria macrospora	1	0	1	1	1	1	1
-EukFunAscSorGloPleSod_Sodiomyces alkalinus	1	0	0	1	1	0	0
-EukFunAscSorGloPleVer_Verticillium dahliae	0	0	0	0	1	0	0
-EukFunAscSorGloPleVer_Verticillium nonalfalfae	1	0	0	0	0	0	1
-EukFunAscSorGloPleVer_Verticillium alfalfae	0	0	0	0	0	1	0
-EukFunAscSorGloGloCol_Colletotrichum higginsianum	1	1	1	1	0	0	0
-EukFunAscSorGloGloCol_Colletotrichum graminicola	1	1	1	1	1	1	1
-EukFunAscSorGloGloCol_Colletotrichum orchidophilum	1	1	1	1	1	1	1
-EukFunAscSorTogTogPha_Phaeoacremonium minimum	0	0	0	0	0	0	1
-EukFunAscSorHypOphPur_Purpureocillium lilacinum	0	0	0	1	0	0	0
-EukFunAscSorHypClaPoc_Pochonia chlamydosporia	0	0	1	0	0	0	1
-EukFunAscSorHypClaMet_Metarhizium brunneum	0	1	0	0	0	0	0
-EukFunAscSorHypClaMet_Metarhizium robertsii	0	1	1	1	0	0	0
-EukFunAscSorHypClaMet_Metarhizium acridum	1	1	1	1	1	1	1
-EukFunAscSorHypNecFus_Fusarium graminearum	0	0	0	0	1	1	0
-EukFunAscSorHypNecFus_Fusarium coffeatum	1	0	0	0	0	0	0
-EukFunAscSorHypNecFus_[Nectria] haematococca	1	0	0	0	0	0	0
-EukFunAscSorHypNecFus_Fusarium proliferatum	0	1	0	0	0	1	0
-EukFunAscSorHypNecFus_Fusarium pseudograminearum	1	0	0	0	0	0	0
-EukFunAscSorHypNecFus_Fusarium oxysporum	1	1	1	0	1	0	0
-EukFunAscSorHypNecFus_Fusarium fujikuroi	0	0	0	0	1	1	1
-EukFunAscSorHypNecFus_Fusarium venenatum	0	0	1	0	0	0	0
-EukFunAscSorHypCorBea_Beauveria bassiana	0	1	1	0	1	1	0
-EukFunAscSorHypCorCor_Cordyceps fumosorosea	0	0	0	0	0	1	0
-EukFunAscSorHypHypTri_Trichoderma virens	0	0	1	0	1	0	1
-EukFunAscSorHypHypTri_Trichoderma harzianum	1	1	0	1	0	0	1
-EukFunAscSorHypHypTri_Trichoderma citrinoviride	0	0	0	1	0	0	0
-EukFunAscSorHypHypTri_Trichoderma gamsii	1	0	1	0	1	0	1
-EukFunAscSorHypHypTri_Trichoderma asperellum	1	1	1	1	1	1	1
-EukFunAscSorHypHypTri_Trichoderma reesei	1	1	1	1	1	1	1
-EukFunAscSorHypHypTri_Trichoderma atroviride	0	0	0	1	0	0	0
-EukFunAscSorMicMicSce_Scedosporium apiospermum	1	0	1	1	1	1	1
-EukFunAscSchSchSchSch_Schizosaccharomyces cryophilus	0	1	1	0	0	0	0
-EukFunAscSchSchSchSch_Schizosaccharomyces octosporus	1	0	0	1	0	0	1
-EukFunAscSchSchSchSch_Schizosaccharomyces pombe	0	0	1	1	0	0	0
-EukFunAscEurEurTheBys_Byssochlamys spectabilis	1	0	0	0	0	0	0
-EukFunAscEurEurAspPen_Penicilliopsis zonata	0	1	0	0	0	1	1
-EukFunAscEurEurAspPen_Penicillium digitatum	0	0	0	0	1	1	1
-EukFunAscEurEurAspPen_Penicillium rubens	0	0	0	1	1	0	0
-EukFunAscEurEurAspPen_Penicillium expansum	0	0	0	1	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus vadensis	0	0	0	1	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus fischeri	1	1	1	1	1	0	0
-EukFunAscEurEurAspAsp_Aspergillus saccharolyticus	1	0	1	1	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus bombycis	1	0	0	0	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus candidus	1	0	0	1	1	0	1
-EukFunAscEurEurAspAsp_Aspergillus brunneoviolaceus	0	1	0	0	0	1	0
-EukFunAscEurEurAspAsp_Aspergillus costaricaensis	0	1	1	1	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus ibericus	0	0	1	0	1	1	0
-EukFunAscEurEurAspAsp_Aspergillus flavus	0	0	1	0	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus fumigatus	1	0	0	0	1	1	0
-EukFunAscEurEurAspAsp_Aspergillus piperis	0	1	0	0	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus homomorphus	1	0	0	0	0	1	1
-EukFunAscEurEurAspAsp_Aspergillus uvarum	0	1	1	1	0	1	0
-EukFunAscEurEurAspAsp_Aspergillus steynii	0	0	1	1	1	0	1
-EukFunAscEurEurAspAsp_Aspergillus clavatus	1	0	0	1	0	1	1
-EukFunAscEurEurAspAsp_Aspergillus thermomutatus	0	1	0	0	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus sclerotioniger	1	0	0	0	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus japonicus	0	1	0	1	0	0	1
-EukFunAscEurEurAspAsp_Aspergillus aculeatus	0	0	1	0	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus glaucus	1	1	1	1	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus eucalypticola	0	0	0	1	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus welwitschiae	1	0	1	1	1	0	0
-EukFunAscEurEurAspAsp_Aspergillus campestris	1	0	0	1	0	1	1
-EukFunAscEurEurAspAsp_Aspergillus terreus	1	0	0	0	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus lentulus	0	0	1	0	1	0	1
-EukFunAscEurEurAspAsp_Aspergillus mulundensis	0	1	1	1	1	0	1
-EukFunAscEurEurAspAsp_Aspergillus aculeatinus	0	1	1	1	1	0	1
-EukFunAscEurEurAspAsp_Aspergillus niger	0	0	0	1	1	1	0
-EukFunAscEurEurAspAsp_Aspergillus heteromorphus	1	1	1	1	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus nomius	1	0	0	0	1	1	1
-EukFunAscEurEurAspAsp_Aspergillus neoniger	1	0	0	1	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus oryzae	0	0	0	1	0	0	0
-EukFunAscEurEurAspAsp_Aspergillus nidulans	0	1	0	1	0	0	1
-EukFunAscEurEurTriRas_Rasamsonia emersonii	0	1	0	0	0	0	0
-EukFunAscEurEurTriTal_Talaromyces atroroseus	0	1	0	0	1	0	0
-EukFunAscEurEurTriTal_Talaromyces marneffei	0	0	0	0	1	0	0
-EukFunAscEurVerVerEnd_Endocarpon pusillum	0	1	0	0	0	0	0
-EukFunAscEurChaHerCap_Capronia coronata	0	0	1	1	0	0	0
-EukFunAscEurChaHerCap_Capronia epimyces	1	0	0	1	0	1	1
-EukFunAscEurChaHerExo_Exophiala aquamarina	1	0	0	0	0	1	1
-EukFunAscEurChaHerExo_Exophiala spinifera	0	0	1	1	1	0	1
-EukFunAscEurChaHerExo_Exophiala xenobiotica	0	1	0	0	0	1	1
-EukFunAscEurChaHerExo_Exophiala dermatitidis	0	1	0	1	0	0	0
-EukFunAscEurChaHerPhi_Phialophora attae	0	0	0	1	0	0	0
-EukFunAscEurChaHerFon_Fonsecaea erecta	1	0	0	0	0	0	0
-EukFunAscEurChaHerFon_Fonsecaea multimorphosa	0	0	1	0	0	0	1
-EukFunAscEurChaHerFon_Fonsecaea pedrosoi	0	0	1	0	1	1	0
-EukFunAscEurChaHerFon_Fonsecaea nubica	0	0	0	0	0	1	1
-EukFunAscEurChaHerRhi_Rhinocladiella mackenziei	0	0	1	0	1	0	0
-EukFunAscEurChaHerCla_Cladophialophora carrionii	0	0	0	0	0	1	1
-EukFunAscEurChaHerCla_Cladophialophora psammophila	0	0	0	0	0	1	1
-EukFunAscEurChaHerCla_Cladophialophora immunda	1	0	0	0	0	0	1
-EukFunAscEurChaHerCla_Cladophialophora yegresii	1	0	0	0	0	0	0
-EukFunAscEurChaHerCla_Cladophialophora bantiana	0	0	0	0	1	0	0
-EukFunAscEurOnyParPar_	2	2	2	1	2	1	0
-EukFunAscEurOnyCocCoc_	2	2	2	2	2	2	2
-EukFunAscEurOnyArtTri_Trichophyton benhamiae	1	1	1	1	1	1	1
-EukFunAscEurOnyArtTri_Trichophyton rubrum	0	0	1	0	1	1	1
-EukFunAscEurOnyArtTri_Trichophyton verrucosum	1	0	1	1	1	1	1
-EukFunAscEurOnyArtMic_Microsporum canis	0	0	1	0	1	0	0
-EukFunAscEurOnyAjeBla_Blastomyces gilchristii	1	1	1	1	1	1	1
-EukFunAscEurOnyAjeHis_Histoplasma capsulatum	1	1	1	1	1	1	0
-EukFunAscOrbOrbOrbArt_Arthrobotrys oligospora	0	1	1	1	1	1	1
-EukFunBasExoGeoTilTil_Tilletiaria anomala	1	0	0	0	0	0	0
-EukFunBasExoCerCerCer_Ceraceosorus guamensis	0	0	1	1	0	1	0
-EukFunBasExoMicPsePse_	0	0	1	0	1	0	0
-EukFunBasExoMicJamJam_	0	0	0	0	0	0	1
-EukFunBasExoEntTilTil_	0	1	1	1	0	0	0
-EukFunBasPucPucMelMel_Melampsora larici-populina	1	0	0	1	1	1	0
-EukFunBasPucPucPucPuc_Puccinia graminis	1	1	1	1	1	1	1
-EukFunBasMalMalMalMal_Malassezia pachydermatis	1	0	0	0	1	1	1
-EukFunBasMalMalMalMal_Malassezia globosa	0	0	0	0	0	1	1
-EukFunBasMalMalMalMal_Malassezia restricta	0	0	1	0	0	0	0
-EukFunBasTreTriTriApi_Apiotrichum porosum	1	0	0	0	1	0	1
-EukFunBasTreTriTriCut_Cutaneotrichosporon oleaginosum	1	1	0	0	0	0	0
-EukFunBasTreTreCryCry_Cryptococcus neoformans	0	1	0	0	0	0	0
-EukFunBasTreTreCryKwo_Kwoniella bestiolae	0	0	1	0	0	0	0
-EukFunBasTreTreCryKwo_Kwoniella dejecticola	0	0	1	0	0	0	0
-EukFunBasTreTreCryKwo_Kwoniella pini	1	1	1	1	0	1	1
-EukFunBasMicSpoSpoRho_Rhodotorula graminis	0	0	0	0	0	0	1
-EukFunBasMicSpoSpoRho_Rhodotorula toruloides	1	0	0	0	0	0	0
-EukFunBasWalWalWalWal_Wallemia ichthyophaga	0	0	0	1	0	0	0
-EukFunBasAgaPolDacPos_Postia placenta	0	0	0	1	1	0	0
-EukFunBasAgaCorPunPun_Punctularia strigosozonata	1	0	0	0	0	0	0
-EukFunBasAgaRusSteSte_Stereum hirsutum	0	0	0	0	0	0	1
-EukFunBasAgaAgaAgaAga_Agaricus bisporus	1	0	0	0	0	0	0
-EukFunBasAgaAgaPsaCop_Coprinopsis cinerea	0	0	0	0	1	0	1
-EukFunBasAgaGloGloGlo_Gloeophyllum trabeum	0	0	0	1	0	0	0
-EukFunBasAgaBolConCon_Coniophora puteana	0	1	1	1	0	1	1
-EukFunBasUstUstUstKal_Kalmanozyma brasiliensis	0	0	0	1	0	0	0
-EukFunBasUstUstUstSpo_Sporisorium graminicola	0	0	0	0	0	1	0
-EukFunBasUstUstUstUst_Ustilago maydis	1	0	1	1	0	0	0
-EukFunBasUstUstUstMoe_Moesziomyces antarcticus	0	1	0	0	1	0	0
-EukFunBasUstUstUstAnt_Anthracocystis flocculosa	1	1	1	1	0	0	0
-EukFunMucMorMorMorLob_Lobosporangium transversale	1	1	1	1	1	1	1
-EukFunMucMucMucPhyPhy_Phycomyces blakesleeanus	1	1	1	1	1	1	1
-EukFunMucGloGloGloRhi_Rhizophagus irregularis	1	1	1	1	1	1	1
-EukApuTheThe_	0	0	0	0	0	1	0
-EukApiAcoHaePlaPlaPla_	0	3	1	1	1	2	2
-EukApiAcoPirBabBabBab_	1	0	1	2	1	1	1
-EukApiConEugGreGreGre_	0	1	1	0	0	1	1
-EukApiConEucCryCryCry_	0	0	1	0	0	0	0
-EukApiConEucEimCycCyc_	0	0	0	0	0	0	1
-EukApiConEucEimEimEim_	1	0	0	0	0	1	1
-EukApiConEucSarNeoNeo_	0	0	0	0	0	1	0
-EukApiConEucSarToxTox_	0	0	0	0	0	1	0
-EukApiConEucSarHamHam_	0	0	1	0	1	1	0
-EukTriTriTriTri_	0	0	0	0	0	0	1
-EukPerPerPerPerPer_	0	0	0	0	1	0	0
-EukBlaBlaBla_	0	0	1	0	1	0	0
-ArcThaCan_	0	0	0	1	0	0	0
-ArcThaCanCan_	0	0	0	1	0	0	0
-ArcEurMetMetMetMetMet_	16	26	6	12	14	3	3
-ArcEurHalHalhal_	0	0	0	0	0	0	1
-ArcEurHalHalHalHalHal_	2	1	3	1	4	4	6
-ArcEurHalNatNatNatNat_	0	0	1	1	0	1	0
-ArcEurHalNatNatHalHal_	1	1	1	1	1	0	1
-ArcEurHalHalHalNatNat_	0	0	1	0	0	0	1
-ArcEurTheTheTheTheThe_	1	1	1	1	1	2	2
+Domain	Phylum	Class	Order	Family	Genus	Species	Subspecies	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Diplodia	Diplodia corticola	1	0	0	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora fijiensis	1	0	0	1	0	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Sphaerulina	Sphaerulina musiva	1	0	1	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Dothideales	Saccotheciaceae	Aureobasidium	Aureobasidium subglaciale	1	0	0	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sporulosa	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Leptosphaeria	Leptosphaeria maculans	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria alternata	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris maydis	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris oryzae	0	0	1	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris sorokiniana	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris victoriae	0	0	1	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Exserohilum	Exserohilum turcicum	0	1	1	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora tritici-repentis	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Dothideomycetes	Venturiales	Sympoventuriaceae	Verruconis	Verruconis gallopava	1	1	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Capronia	Capronia coronata	0	0	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Capronia	Capronia epimyces	1	0	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora bantiana	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora carrionii	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora immunda	1	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora psammophila	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora yegresii	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala aquamarina	1	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala dermatitidis	0	1	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala spinifera	0	0	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala xenobiotica	0	1	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea erecta	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea multimorphosa	0	0	1	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea nubica	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea pedrosoi	0	0	1	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	Phialophora attae	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	Rhinocladiella mackenziei	0	0	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus aculeatinus	0	1	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus aculeatus	0	0	1	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus bombycis	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus brunneoviolaceus	0	1	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus campestris	1	0	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus candidus	1	0	0	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus clavatus	1	0	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus costaricaensis	0	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus eucalypticola	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus fischeri	1	1	1	1	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus flavus	0	0	1	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus fumigatus	1	0	0	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus glaucus	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus heteromorphus	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus homomorphus	1	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus ibericus	0	0	1	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus japonicus	0	1	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus lentulus	0	0	1	0	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus mulundensis	0	1	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus neoniger	1	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus nidulans	0	1	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus niger	0	0	0	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus nomius	1	0	0	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus oryzae	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus piperis	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus saccharolyticus	1	0	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus sclerotioniger	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus steynii	0	0	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus terreus	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus thermomutatus	0	1	0	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus uvarum	0	1	1	1	0	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus vadensis	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus welwitschiae	1	0	1	1	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicilliopsis	Penicilliopsis zonata	0	1	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium digitatum	0	0	0	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium expansum	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium rubens	0	0	0	1	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Thermoascaceae	Byssochlamys	Byssochlamys spectabilis	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	Rasamsonia emersonii	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces atroroseus	0	1	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces marneffei	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Blastomyces	Blastomyces gilchristii	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Histoplasma	Histoplasma capsulatum	1	1	1	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Microsporum	Microsporum canis	0	0	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton benhamiae	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton rubrum	0	0	1	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	Trichophyton verrucosum	1	0	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Endocarpon	Endocarpon pusillum	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	Marssonina	Marssonina brunnea	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	Glarea lozoyensis	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	Hyaloscypha bicolor	1	1	1	1	0	1	0
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Lachnaceae	Lachnellula	Lachnellula hyalina	0	0	1	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	Botrytis cinerea	1	1	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia sclerotiorum	1	0	1	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	Arthrobotrys oligospora	0	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber	Tuber melanosporum	0	1	1	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	Pneumocystis carinii	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	Pneumocystis jirovecii	0	0	1	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Ascoideaceae	Ascoidea	Ascoidea rubescens	0	1	0	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Babjeviella	Babjeviella inositovora	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida albicans	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida dubliniensis	1	1	1	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida orthopsilosis	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida tropicalis	0	0	1	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Hyphopichia	Hyphopichia burtonii	1	1	1	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Lodderomyces	Lodderomyces elongisporus	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Meyerozyma	Meyerozyma guilliermondii	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Spathaspora	Spathaspora passalidarum	0	0	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	Yarrowia lipolytica	1	1	1	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] auris	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] duobushaemulonis	1	0	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] haemulonis	1	1	0	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	[Candida] pseudohaemulonis	1	0	1	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Metschnikowia	Metschnikowia bicuspidata	1	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera jadinii	0	1	0	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces anomalus	0	1	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces ciferrii	0	1	1	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	Ogataea polymorpha	0	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia kudriavzevii	0	0	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia membranifaciens	0	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	Eremothecium sinecaudum	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania naganishii	0	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces marxianus	1	1	0	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces cerevisiae	0	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces eubayanus	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Tetrapisispora	Tetrapisispora blattae	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Vanderwaltozyma	Vanderwaltozyma polyspora	0	0	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Zygosaccharomyces	Zygosaccharomyces rouxii	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces cryophilus	0	1	1	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces octosporus	1	0	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	Schizosaccharomyces pombe	0	0	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum graminicola	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum higginsianum	1	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum orchidophilum	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Sodiomyces	Sodiomyces alkalinus	1	0	0	1	1	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium alfalfae	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium dahliae	0	0	0	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	Verticillium nonalfalfae	1	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium acridum	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium brunneum	0	1	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium robertsii	0	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Pochonia	Pochonia chlamydosporia	0	0	1	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Beauveria bassiana	0	1	1	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	Cordyceps fumosorosea	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma asperellum	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma atroviride	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma citrinoviride	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma gamsii	1	0	1	0	1	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma harzianum	1	1	0	1	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma reesei	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma virens	0	0	1	0	1	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium coffeatum	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium fujikuroi	0	0	0	0	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium graminearum	0	0	0	0	1	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium oxysporum	1	1	1	0	1	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium proliferatum	0	1	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium pseudograminearum	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium venenatum	0	0	1	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	[Nectria] haematococca	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium	Purpureocillium lilacinum	0	0	0	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Magnaporthaceae	Gaeumannomyces	Gaeumannomyces tritici	0	1	1	1	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia grisea	1	1	0	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia oryzae	1	0	0	1	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Pyriculariaceae	Pyricularia	Pyricularia pennisetigena	1	1	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium apiospermum	1	0	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Grosmannia	Grosmannia clavigera	1	0	0	0	0	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Sporothrix	Sporothrix schenckii	0	1	0	0	0	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium globosum	0	0	1	1	0	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium thermophilum	1	0	1	1	1	0	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Podospora	Podospora anserina	1	1	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothelomyces	Thermothelomyces thermophilus	1	1	1	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thermothielavioides	Thermothielavioides terrestris	0	1	0	1	0	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	Neurospora crassa	0	1	1	1	1	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	Neurospora tetrasperma	1	0	0	1	1	1	0
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	Sordaria macrospora	1	0	1	1	1	1	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Togniniales	Togniniaceae	Phaeoacremonium	Phaeoacremonium minimum	0	0	0	0	0	0	1
+Eukaryota	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	Pestalotiopsis fici	0	0	0	0	0	1	0
+Eukaryota	Fungi	Ascomycota	Xylonomycetes	Xylonales	Xylonaceae	Xylona	Xylona heveae	1	1	1	1	1	1	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	Agaricus bisporus	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis cinerea	0	0	0	0	1	0	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Boletales	Coniophoraceae	Coniophora	Coniophora puteana	0	1	1	1	0	1	1
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Punctulariaceae	Punctularia	Punctularia strigosozonata	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Gloeophyllales	Gloeophyllaceae	Gloeophyllum	Gloeophyllum trabeum	0	0	0	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Dacryobolaceae	Postia	Postia placenta	0	0	0	1	1	0	0
+Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	Stereum hirsutum	0	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Ceraceosorales	Ceraceosoraceae	Ceraceosorus	Ceraceosorus guamensis	0	0	1	1	0	1	0
+Eukaryota	Fungi	Basidiomycota	Exobasidiomycetes	Georgefischeriales	Tilletiariaceae	Tilletiaria	Tilletiaria anomala	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia globosa	0	0	0	0	0	1	1
+Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia pachydermatis	1	0	0	0	1	1	1
+Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia restricta	0	0	1	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula graminis	0	0	0	0	0	0	1
+Eukaryota	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula toruloides	1	0	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	Melampsora	Melampsora larici-populina	1	0	0	1	1	1	0
+Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia graminis	1	1	1	1	1	1	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus neoformans	0	1	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella bestiolae	0	0	1	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella dejecticola	0	0	1	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella pini	1	1	1	1	0	1	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum porosum	1	0	0	0	1	0	1
+Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Cutaneotrichosporon	Cutaneotrichosporon oleaginosum	1	1	0	0	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Anthracocystis	Anthracocystis flocculosa	1	1	1	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Kalmanozyma	Kalmanozyma brasiliensis	0	0	0	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Moesziomyces	Moesziomyces antarcticus	0	1	0	0	1	0	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Sporisorium	Sporisorium graminicola	0	0	0	0	0	1	0
+Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	Ustilago maydis	1	0	1	1	0	0	0
+Eukaryota	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	Wallemiaceae	Wallemia	Wallemia ichthyophaga	0	0	0	1	0	0	0
+Eukaryota	Fungi	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	Rhizophagus irregularis	1	1	1	1	1	1	1
+Eukaryota	Fungi	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Lobosporangium	Lobosporangium transversale	1	1	1	1	1	1	1
+Eukaryota	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	1	1	1	1	1	1	1

@@ -1,17 +1,17 @@
-Species	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-Euk_Haptophyta	0	0	1	0	0	0	0
-Euk_Oomycetes	1	0	0	0	0	1	0
-Euk_Bacillariophyta	0	0	0	0	2	0	0
-Euk_Eustigmatophyceae	0	1	0	1	0	0	0
-Euk_Dictyosteliales	1	0	0	1	0	0	0
-Euk_Entamoebidae	0	0	0	4	0	0	0
-Euk_Acytosteliales	0	0	0	0	0	1	0
-Euk_Kinetoplastida	0	1	1	0	0	1	1
-Euk_Fungi	95	84	95	108	91	98	99
-Euk_Apusomonadidae	0	0	0	0	0	1	0
-Euk_Apicomplexa	2	4	5	3	3	8	6
-Euk_Trichomonadida	0	0	0	0	0	0	1
-Euk_Perkinsozoa	0	0	0	0	1	0	0
-Euk_Blastocystidae	0	0	1	0	1	0	0
-Arc_Thaumarchaeota	0	0	0	2	0	0	0
-Arc_Euryarchaeota	20	29	13	16	20	10	14
+Domain	Phylum	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	20	29	13	16	20	10	14
+Archaea	Thaumarchaeota	0	0	0	2	0	0	0
+Eukaryota	Acytosteliales	0	0	0	0	0	1	0
+Eukaryota	Apicomplexa	2	4	5	3	3	8	6
+Eukaryota	Apusomonadidae	0	0	0	0	0	1	0
+Eukaryota	Bacillariophyta	0	0	0	0	2	0	0
+Eukaryota	Blastocystidae	0	0	1	0	1	0	0
+Eukaryota	Dictyosteliales	1	0	0	1	0	0	0
+Eukaryota	Entamoebidae	0	0	0	4	0	0	0
+Eukaryota	Eustigmatophyceae	0	1	0	1	0	0	0
+Eukaryota	Fungi	95	84	95	108	91	98	99
+Eukaryota	Haptophyta	0	0	1	0	0	0	0
+Eukaryota	Kinetoplastida	0	1	1	0	0	1	1
+Eukaryota	Oomycetes	1	0	0	0	0	1	0
+Eukaryota	Perkinsozoa	0	0	0	0	1	0	0
+Eukaryota	Trichomonadida	0	0	0	0	0	0	1
