@@ -46,7 +46,7 @@ def GetReads(InputData, InputFile, SampleList):
 						Reads.append("")
 					Reads.extend(copy.deepcopy(Tree[1:]))
 					ReadList.append(Reads)
-	OutputFile = InputFile.rsplit(".",1)[0] + "_Reads_test.txt"
+	OutputFile = InputFile.rsplit(".",1)[0] + "_Reads.txt"
 	Header = SampleList + ["Domain", "Phylum", "Class", "Order", "Family", "Genus", "Species", "Subspecies", ""]
 	df = pd.DataFrame(ReadList,columns=Header)
 	df.drop("", axis=1, inplace=True)

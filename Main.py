@@ -56,7 +56,7 @@ def get_samples(header_list, end="Domain"):
 ##------------------------------------------------------
 ## MAIN SCRIPT
 ##------------------------------------------------------
-Cutoff = 20000 # Cufoff all UTFs below this number of reads (default = 20000)
+Cutoff = 2000 # Cufoff all UTFs below this number of reads (default = 20000)
 
 print_header()
 
@@ -86,14 +86,19 @@ if file_type == "txt" or get:
 	if file_type != "txt":
 		input_file = input_file.rsplit(".",1)[0] + "_Reads.txt"
 	reads_df = pd.read_csv(input_file, sep="\t", index_col=False)
-	reads_df.to_csv("Test.txt", sep="\t", index=False)
 	sample_list, level_list, index = get_samples(list(reads_df))
 	reads_df[sample_list] = reads_df[sample_list].astype("Int64")
 	for level in range(len(level_list)):
-		reads = reads_df.groupby(level_list[:level+1])[sample_list].sum()
+		reads = reads_df.groupby(level_list[:level+1], as_index=False)[sample_list].sum()
 		species = reads_df.groupby(level_list[:level+1])[sample_list].count()
+		if level > 0:
+			df = reads[(reads[sample_list] < Cutoff).all(axis=1)]
+			df = df.groupby(level_list[:level], as_index=False)[sample_list].sum()
+			df.insert(loc=level-1, column=level_list[level], value=["Other"]*len(df))
+			reads_filtered = pd.concat([reads[(reads[sample_list] >= Cutoff).any(axis=1)], df])
+			reads_filtered.to_csv(file_name + "_Reads_Cutoff" + str(Cutoff) + ".txt", sep="\t", index=False)
 		file_name = output_folder + os.path.split(input_file)[0].rsplit(".",1)[0] + "_" + level_list[level]
-		reads.to_csv(file_name + "_Reads.txt", sep="\t")
+		reads.to_csv(file_name + "_Reads.txt", sep="\t", index=False)
 		species.to_csv(file_name + "_Species.txt", sep="\t")
 		print("Counted", level_list[level], "from", input_file)
 
