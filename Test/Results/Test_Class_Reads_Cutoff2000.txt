@@ -1,27 +1,18 @@
-Domain	Phylum	Class	Order	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	9670	44155	10	415	756	0	0
-Archaea	Euryarchaeota	Halobacteria	Other	15	111	10	9	15	6	21
-Archaea	Euryarchaeota	Methanobacteria	Other	83	25	1	17	101	2	1
-Archaea	Euryarchaeota	Methanococci	Other	0	4	0	0	0	0	0
-Archaea	Euryarchaeota	Methanomicrobia	Other	0	11	6	1	27	39	47
-Archaea	Euryarchaeota	Thermococci	Other	3	3	7	8	12	10	4
-Archaea	Thaumarchaeota	Candidatus Nitrosotenuis	Other	0	0	0	1	0	0	0
-Eukaryota	Acytosteliales	Acytosteliaceae	Other	0	0	0	0	0	2	0
-Eukaryota	Apicomplexa	Aconoidasida	Other	10	12	2	100	14	64	48
-Eukaryota	Apicomplexa	Conoidasida	Other	20	1	3	0	14	7	8
-Eukaryota	Apusomonadidae	Thecamonas	Other	0	0	0	0	0	1	0
-Eukaryota	Bacillariophyta	Bacillariophyceae	Other	0	0	0	0	1	0	0
-Eukaryota	Bacillariophyta	Coscinodiscophyceae	Other	0	0	0	0	4	0	0
-Eukaryota	Blastocystidae	Blastocystis	Other	0	0	3	0	1	0	0
-Eukaryota	Dictyosteliales	Dictyosteliaceae	Other	1	0	0	1	0	0	0
-Eukaryota	Entamoebidae	Entamoeba	Other	0	0	0	8	0	0	0
-Eukaryota	Eustigmatophyceae	Eustigmatales	Other	0	1	0	1	0	0	0
-Eukaryota	Fungi	Ascomycota	Other	447	349	635	1262	887	307	414
-Eukaryota	Fungi	Basidiomycota	Other	1116	21	23	69	13	52	15
-Eukaryota	Fungi	Mucoromycota	Other	63	54	123	96	91	43	37
-Eukaryota	Haptophyta	Isochrysidales	Other	0	0	1	0	0	0	0
-Eukaryota	Kinetoplastida	Trypanosomatidae	Other	0	1	1	0	0	11	3
-Eukaryota	Oomycetes	Peronosporales	Other	0	0	0	0	0	2	0
-Eukaryota	Oomycetes	Saprolegniales	Other	2	0	0	0	0	0	0
-Eukaryota	Perkinsozoa	Perkinsida	Other	0	0	0	0	1	0	0
-Eukaryota	Trichomonadida	Trichomonadidae	Other	0	0	0	0	0	0	1
+Domain	Phylum	Class	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	Methanomicrobia	9670	44166	16	416	783	39	47
+Archaea	Euryarchaeota	Other	101	143	18	34	128	18	26
+Archaea	Thaumarchaeota	Other	0	0	0	2	0	0	0
+Eukaryota	Acytosteliales	Other	0	0	0	0	0	2	0
+Eukaryota	Apicomplexa	Other	30	13	5	100	28	71	56
+Eukaryota	Apusomonadidae	Other	0	0	0	0	0	1	0
+Eukaryota	Bacillariophyta	Other	0	0	0	0	5	0	0
+Eukaryota	Blastocystidae	Other	0	0	3	0	1	0	0
+Eukaryota	Dictyosteliales	Other	1	0	0	1	0	0	0
+Eukaryota	Entamoebidae	Other	0	0	0	8	0	0	0
+Eukaryota	Eustigmatophyceae	Other	0	1	0	1	0	0	0
+Eukaryota	Fungi	Other	1626	424	781	1427	991	402	466
+Eukaryota	Haptophyta	Other	0	0	1	0	0	0	0
+Eukaryota	Kinetoplastida	Other	0	1	1	0	0	11	3
+Eukaryota	Oomycetes	Other	2	0	0	0	0	2	0
+Eukaryota	Perkinsozoa	Other	0	0	0	0	1	0	0
+Eukaryota	Trichomonadida	Other	0	0	0	0	0	0	1

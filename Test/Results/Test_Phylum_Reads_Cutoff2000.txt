@@ -1,18 +1,4 @@
-Domain	Phylum	Class	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
-Archaea	Euryarchaeota	Methanomicrobia	9670	44166	16	416	783	39	47
-Archaea	Euryarchaeota	Other	101	143	18	34	128	18	26
-Archaea	Thaumarchaeota	Other	0	0	0	2	0	0	0
-Eukaryota	Acytosteliales	Other	0	0	0	0	0	2	0
-Eukaryota	Apicomplexa	Other	30	13	5	100	28	71	56
-Eukaryota	Apusomonadidae	Other	0	0	0	0	0	1	0
-Eukaryota	Bacillariophyta	Other	0	0	0	0	5	0	0
-Eukaryota	Blastocystidae	Other	0	0	3	0	1	0	0
-Eukaryota	Dictyosteliales	Other	1	0	0	1	0	0	0
-Eukaryota	Entamoebidae	Other	0	0	0	8	0	0	0
-Eukaryota	Eustigmatophyceae	Other	0	1	0	1	0	0	0
-Eukaryota	Fungi	Other	1626	424	781	1427	991	402	466
-Eukaryota	Haptophyta	Other	0	0	1	0	0	0	0
-Eukaryota	Kinetoplastida	Other	0	1	1	0	0	11	3
-Eukaryota	Oomycetes	Other	2	0	0	0	0	2	0
-Eukaryota	Perkinsozoa	Other	0	0	0	0	1	0	0
-Eukaryota	Trichomonadida	Other	0	0	0	0	0	0	1
+Domain	Phylum	Sample1	Sample2	Sample3	Sample4	Sample5	Sample6	Sample7
+Archaea	Euryarchaeota	9771	44309	34	450	911	57	73
+Archaea	Other	0	0	0	2	0	0	0
+Eukaryota	Other	1659	439	791	1537	1026	489	526
